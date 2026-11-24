@@ -1,0 +1,166 @@
+{
+  "slug": "my-cables",
+  "blogTitle": "我的跨國情報與技術觀測 Blog",
+  "tagline": "自動化引進各國官民資料流，結合真實創作者脈絡與個人精選評論",
+  "ownerName": "Cables.gg 主編",
+  "ownerBio": "專注於跨國政策新聞、開源生態釋出與獨立開發者寫作的個人精選情報誌。",
+  "template": "editorial",
+  "autoImportEnabled": true,
+  "autoImportCountries": [
+    "ALL"
+  ],
+  "autoImportCategories": [],
+  "importedEntryIds": [
+    "cbl-4d947025bd14",
+    "cbl-60835b039f4b",
+    "cbl-eff547844ca3",
+    "cbl-13e0a23473a4",
+    "cbl-989841f25eae",
+    "cbl-4657a951c3e7",
+    "cbl-92d8e7edc71a",
+    "cbl-e391d97c12f2",
+    "cbl-7ccf183fdfe0"
+  ],
+  "referencedProfiles": [
+    {
+      "id": "prof-devto-nyaomaru",
+      "platform": "devto",
+      "handle": "nyaomaru",
+      "displayName": "nyaomaru",
+      "avatarUrl": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1436158%2Fa78bc4ed-7796-4760-baa5-06283c2404d6.png",
+      "bio": "DEV Community 近期熱門公開作者 · 代表文章《Why I Rewrote type-tune from TypeScript to Rust 🦀》",
+      "location": "",
+      "company": "GitHub: @nyaomaru",
+      "profileUrl": "https://dev.to/nyaomaru",
+      "websiteUrl": "https://nyaomaru-portfolio.vercel.app/",
+      "rssUrl": "https://dev.to/feed/nyaomaru",
+      "followers": null,
+      "publicRepos": null,
+      "tags": [
+        "Dev.to",
+        "typescript",
+        "rust"
+      ],
+      "articles": [
+        {
+          "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+          "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+          "publishedAt": "2026-11-18T17:27:52.000Z",
+          "summary": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And...",
+          "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0pd3h3yek7wxcgkqpkov.gif"
+        }
+      ],
+      "fetchedAt": "2026-11-24T02:14:47.849Z",
+      "referenceNote": "",
+      "autoSubscribedSourceId": "src-creator-nyaomaru-6242",
+      "importedEntryIds": [
+        "cbl-7ccf183fdfe0"
+      ],
+      "referencedAt": "2026-11-24T02:15:06.227Z"
+    },
+    {
+      "id": "prof-gh-gaearon",
+      "platform": "github",
+      "handle": "gaearon",
+      "displayName": "dan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/810438?v=4",
+      "bio": "gaearon 的 GitHub 開源公開個人檔案（303 個公開儲存庫）。",
+      "location": "",
+      "company": "",
+      "profileUrl": "https://github.com/gaearon",
+      "websiteUrl": "https://danabra.mov",
+      "rssUrl": "https://overreacted.io/rss.xml",
+      "followers": 94185,
+      "publicRepos": 303,
+      "tags": [
+        "GitHub",
+        "個人 Blog RSS"
+      ],
+      "articles": [
+        {
+          "title": "How I Vibed a Proof of Conway’s Conjecture",
+          "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "summary": "You can just prove things, apparently."
+        },
+        {
+          "title": "There Are No Instances in atproto",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "publishedAt": "2026-06-19T00:00:00.000Z",
+          "summary": "Like RSS and Google Reader."
+        },
+        {
+          "title": "A Social Filesystem",
+          "url": "https://overreacted.io/a-social-filesystem/",
+          "publishedAt": "2026-01-18T00:00:00.000Z",
+          "summary": "Formats over apps."
+        }
+      ],
+      "fetchedAt": "2026-11-24T02:14:47.899Z",
+      "referenceNote": "",
+      "autoSubscribedSourceId": "src-us-overreacted",
+      "importedEntryIds": [
+        "cbl-4657a951c3e7",
+        "cbl-92d8e7edc71a",
+        "cbl-e391d97c12f2"
+      ],
+      "referencedAt": "2026-11-24T02:14:54.249Z"
+    },
+    {
+      "id": "prof-gh-simonw",
+      "platform": "github",
+      "handle": "simonw",
+      "displayName": "Simon Willison",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9599?v=4",
+      "bio": "simonw 的 GitHub 開源公開個人檔案（1001 個公開儲存庫）。",
+      "location": "Half Moon Bay, California",
+      "company": "Datasette",
+      "profileUrl": "https://github.com/simonw",
+      "websiteUrl": "https://simonwillison.net/",
+      "rssUrl": "https://simonwillison.net/atom/everything/",
+      "followers": 17940,
+      "publicRepos": 1001,
+      "tags": [
+        "GitHub",
+        "Half Moon Bay",
+        "個人 Blog RSS"
+      ],
+      "articles": [
+        {
+          "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+          "publishedAt": "2026-11-23T23:40:49.000Z",
+          "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a s",
+          "coverImage": "https://static.simonwillison.net/static/2026/glm-5.4-max.webp"
+        },
+        {
+          "title": "Ladybird's first alpha release",
+          "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+          "publishedAt": "2026-11-23T21:46:35.000Z",
+          "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few exte",
+          "coverImage": "https://static.simonwillison.net/static/2026/ladybird-ffmpeg.webp"
+        },
+        {
+          "title": "datasette-charts 0.1a0",
+          "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+          "publishedAt": "2026-11-23T00:37:20.000Z",
+          "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a fu",
+          "coverImage": "https://static.simonwillison.net/static/2026/datasette-charts-0.1a0.webp"
+        }
+      ],
+      "fetchedAt": "2026-11-24T02:08:55.100Z",
+      "referenceNote": "即時追蹤的 AI 與工程寫作者",
+      "autoSubscribedSourceId": "src-global-simonw",
+      "importedEntryIds": [
+        "cbl-eff547844ca3",
+        "cbl-13e0a23473a4",
+        "cbl-989841f25eae"
+      ],
+      "referencedAt": "2026-11-24T02:08:56.874Z"
+    }
+  ],
+  "followedProfiles": [],
+  "ownerFollowed": false,
+  "ownerFollowersCount": 0,
+  "updatedAt": "2026-11-24T02:15:24.127Z"
+}

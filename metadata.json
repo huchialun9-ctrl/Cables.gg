@@ -1,0 +1,6 @@
+{
+  "name": "Cables.gg",
+  "description": "Cables.gg — 跨國新聞媒體與公開資訊整合平台：支援自動定位國家、多語繁中翻譯、n8n 自動化串接與個人 Blog RSS 訂閱轉換。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

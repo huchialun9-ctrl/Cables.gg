@@ -1,0 +1,39 @@
+name: Cables.gg Automated Sync
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-cables:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Cables.gg crawler & AI summarizer
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/crawler.py
+
+      - name: Commit updated database.json & sources.json
+        run: |
+          git config user.name "cables-bot"
+          git config user.email "bot@cables.gg"
+          git add data/database.json data/sources.json
+          if git diff --staged --quiet; then
+            echo "No new changes detected."
+          else
+            git commit -m "chore(data): sync developer changelogs [skip ci]"
+            git push
+          fi
