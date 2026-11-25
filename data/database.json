@@ -1,8 +1,3320 @@
 {
   "schemaVersion": "2.0.0",
-  "lastUpdated": "2026-11-24T17:15:11Z",
-  "totalRecords": 374,
+  "lastUpdated": "2026-11-25T02:02:38Z",
+  "totalRecords": 469,
   "entries": [
+    {
+      "id": "cbl-e51285ffa0fe",
+      "title": "Three LLM inflection points in twelve months",
+      "originalTitle": "Three LLM inflection points in twelve months",
+      "category": "API 變動",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Simon Willison Weblog (AI & Engineering)",
+      "sourceId": "src-global-simonw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=64",
+      "bannerImage": "https://static.simonwillison.net/static/2026/fable-class.webp",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:04:15Z",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "API 變動"
+      ],
+      "aiSummary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point th",
+      "keyChanges": [
+        "來源：Simon Willison Weblog (AI & Engineering)（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-79afc51524d2",
+      "title": "I Completed OpenAI Academy's Get Started with Codex 🎉",
+      "originalTitle": "I Completed OpenAI Academy's Get Started with Codex 🎉",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpfqjd4mrbec3qoduj8i7.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:04:15Z",
+      "url": "https://dev.to/harry_jees/i-completed-openai-academys-get-started-with-codex-43m",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "I've recently completed Get Started with Codex through OpenAI Academy. As AI-assisted and agentic software development continue to evolve, I wanted to explore how Codex fits into modern development workflows and how coding agents can help developers build, explore, and work with code more effectively. The course introd",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5466d6e9d18b",
+      "title": "How to Automate Stateful Headless Browsers With Cloudflare Browser Run /script",
+      "originalTitle": "How to Automate Stateful Headless Browsers With Cloudflare Browser Run /script",
+      "category": "Reddit 熱議",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcn39rrv5tvk7h8itf5qg.webp",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:04:15Z",
+      "url": "https://dev.to/mango7777/how-to-automate-stateful-headless-browsers-with-cloudflare-browser-run-script-4fag",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Running a multi-step headless browser task on Cloudflare used to force a trade-off between simplicity and control. If you only needed a static page capture, Browser Run's stateless Quick Actions ( /screenshot , /pdf , /markdown , or /snapshot ) handled the request over a single HTTP call without any infrastructure setu",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3541ed26e7ff",
+      "title": "Building a floating Markdown notebook with calculations and Vim on macOS",
+      "originalTitle": "Building a floating Markdown notebook with calculations and Vim on macOS",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F039tgs2cbwvgb03cgg7q.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:04:15Z",
+      "url": "https://dev.to/dofy/building-a-floating-markdown-notebook-with-calculations-and-vim-on-macos-2f2p",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "I kept running into the same small interruption: I needed to capture a thought, check off a few items, or calculate something, but opening a full workspace felt like more work than the task itself. So I built Inkflit, a local-first floating notebook for macOS. The idea is a window I can summon from the menu bar or a sh",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9781c14be31a",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "originalTitle": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "The verdict follows a months-long trial in New York.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b3d70824663f",
+      "title": "Why tiny cars are taking off across Europe",
+      "originalTitle": "Why tiny cars are taking off across Europe",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-82eaf0a89b24",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "originalTitle": "US attorney general dodges questions about Nvidia investigation",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3ec7a2c4d4f7",
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "originalTitle": "Households braced for soaring energy bills with new price cap to be announced",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Business 財經商業新聞",
+      "sourceId": "src-gb-bbc-business",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "keyChanges": [
+        "來源：BBC Business 財經商業新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a889a677496a",
+      "title": "US preparing to unveil new tariffs on global trading partners",
+      "originalTitle": "US preparing to unveil new tariffs on global trading partners",
+      "category": "財經科技",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Business 財經商業新聞",
+      "sourceId": "src-gb-bbc-business",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "keyChanges": [
+        "來源：BBC Business 財經商業新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3f8edd3cee55",
+      "title": "What will the energy cap changes mean for my bills?",
+      "originalTitle": "What will the energy cap changes mean for my bills?",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Business 財經商業新聞",
+      "sourceId": "src-gb-bbc-business",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "keyChanges": [
+        "來源：BBC Business 財經商業新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d1be43a68746",
+      "title": "How high technology is changing cargo crime",
+      "originalTitle": "How high technology is changing cargo crime",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR Technology 科技專題",
+      "sourceId": "src-us-npr-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:59Z",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.",
+      "keyChanges": [
+        "來源：NPR Technology 科技專題（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-465c636bbfc3",
+      "title": "坦承違反輝達行為準則！黃仁勳向員工道歉：犯了糟糕的錯誤",
+      "originalTitle": "坦承違反輝達行為準則！黃仁勳向員工道歉：犯了糟糕的錯誤",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2025/05/20081620/nvidia-ceo-jensen-huang-delivers-gtc-keynote.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:55Z",
+      "url": "https://technews.tw/2026/11/25/nvidia-jensen-huang-2/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "消息人士向路透社透露，重新復職的輝達執行長的黃仁勳週二（24 日）向員工表示，他曾違反公司部分行為準則，並承認 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d3627fa211bd",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "originalTitle": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "category": "財經科技",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:55Z",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-554b2311e1c3",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "originalTitle": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6af7d0c3d135dcb52741f5c1/master/pass/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:55Z",
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bdca48795016",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "originalTitle": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b05dbc15e00c95c05adac31/master/pass/What-Jensen-Actually-Said-Business-2286324485.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:55Z",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f01fe81d90bd",
+      "title": "狂飆 3,310 點後迎震撼教育！費半暴跌 7.88%、外資連 7 賣，台股今日力守 3 萬 5 千點防線",
+      "originalTitle": "狂飆 3,310 點後迎震撼教育！費半暴跌 7.88%、外資連 7 賣，台股今日力守 3 萬 5 千點防線",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=finance.technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2021/09/17173041/shutterstock_1962725125-e1632275508393.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:54Z",
+      "url": "https://finance.technews.tw/2026/11/25/taiwan-stocks-3310-point-rally-shock-correction-philly-semi-sox-plummets-7-88-foreign-sell-7-days-defend-35000/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "台股 24 日在輝達執行長黃仁勳強勢回歸的激勵下，爆發歷史性單日漲點，加權指數狂飆 3,310 點（漲幅約 9 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-dcd4c712eb02",
+      "title": "黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制",
+      "originalTitle": "黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/11/25093355/53814365482_824f4e0005_k.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:53Z",
+      "url": "https://technews.tw/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "美國民主黨聯邦參議院領袖舒默（Chuck Schumer），今天指控輝達執行長黃仁勳將極先進晶片輸往中國，違反 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d6e1aa1b45a0",
+      "title": "BADBOX 3.0殭屍網路捲土重來，假廣告流量高峰時每天產生400億次競價請求",
+      "originalTitle": "BADBOX 3.0殭屍網路捲土重來，假廣告流量高峰時每天產生400億次競價請求",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/1123-badbox-960-jpg.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:51Z",
+      "url": "https://www.ithome.com.tw/news/180729",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "資安業者HUMAN Security揭露BADBOX 3.0殭屍網路，指出攻擊者利用遭植入惡意程式的廉價Android電視盒，大規模從事廣告詐欺，高峰期間每天產生約400億次廣告競價請求，創下公開紀錄。這些虛假流量可能使廣告主為無人觀看的廣告付費。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-15618da4fa5e",
+      "title": "美國FCC擬強化物聯網資安標章制度，獲認證產品每3年須更新認證",
+      "originalTitle": "美國FCC擬強化物聯網資安標章制度，獲認證產品每3年須更新認證",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/1125-fcc-960-v2-jpg.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:50Z",
+      "url": "https://www.ithome.com.tw/news/180738",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "美國聯邦通訊委員會（FCC）打算加強物聯網產品取得資安標章後的管理，要求獲認證產品每3年更新認證，並定期抽查上市產品是否持續符合安全要求。這項新規則草案於11月23日刊登在美國《聯邦公報》，涉及美國政府2025年推出的美國網路安全標章（U.S. Cyber Trust Mark）。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-42022a617c0b",
+      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "originalTitle": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?resize=1920%2C1080&quality=80",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5eee648c2a92",
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "originalTitle": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8e32f8224121",
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "originalTitle": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795569645.jpg?resize=1919%2C1080&quality=80",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-09a0170da60f",
+      "title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+      "originalTitle": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "© Stéphanie Lecocq, Reuters",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=s.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
+      "keyChanges": [
+        "來源：© Stéphanie Lecocq, Reuters（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7b5f30d53cc6",
+      "title": "New York jury convicts Huawei of stealing trade secrets",
+      "originalTitle": "New York jury convicts Huawei of stealing trade secrets",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "© Ng Han Guan, AP",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=s.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/ec3bf444-583a-11f1-acaa-005056bfb2b6/w:1024/p:16x9/AP21362025298799.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "A New York jury has found Chinese telecom giant Huawei guilty of stealing trade secrets and other criminal offences, but acquitted it of a racketeering conspiracy and obstruction of justice. The verdict followed a three-month trial in New York in a case that adds to longstanding US efforts to curb Huawei's operations o",
+      "keyChanges": [
+        "來源：© Ng Han Guan, AP（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-60826245c699",
+      "title": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+      "originalTitle": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "© Manu Fernandez, AP",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=s.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/16447d6a-e85a-11f1-b652-1991d4929b54/w:1024/p:16x9/AP26328810233650.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:49Z",
+      "url": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Real Madrid extended their winning run to 10 games in all competitions on Tuesday, overturning an early deficit to rout PSV Eindhoven 5-1 in the Champions League, with Jude Bellingham scoring a spectacular goal and Kylian Mbappé netting twice. Manchester City, meanwhile, twice came from behind to draw 2-2 with Napoli, ",
+      "keyChanges": [
+        "來源：© Manu Fernandez, AP（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1033e72f490f",
+      "title": "Players and umpires unite against Super Netball rule changes",
+      "originalTitle": "Players and umpires unite against Super Netball rule changes",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/ad241f29eeffdcc3a421c4193d570cc1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=33&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:48Z",
+      "url": "https://www.abc.net.au/news/2026-11-25/players-and-umpires-oppose-super-netball-rule-changes/107423222",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Six years on from the controversial super shot, Super Netball players and umpires have banded together to oppose further rule modifications and innovations.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-da8089c736b3",
+      "title": "Senegal reinstated as African champions after appeal",
+      "originalTitle": "Senegal reinstated as African champions after appeal",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/5ee4b30725e6234b80fff00d715aff59?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:48Z",
+      "url": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "After a successful appeal to the Court of Arbitration for Sport, Senegal has overturned a ruling that deemed Morocco the victors of their controversial Africa Cup of Nations final.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4920c3ba6133",
+      "title": "Official trailer for The Incomer",
+      "originalTitle": "Official trailer for The Incomer",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8b78f82a67ba7c806c09989c0ce075062cec5069",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:48Z",
+      "url": "https://www.smh.com.au/culture/official-trailer-for-the-incomer-20261125-p61h76.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "First-time writer-director Louis Paxton spins a comedic tale, set on a small island off the north coast of Scotland with a population of two.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-aa56fda46565",
+      "title": "The chilling plot, three shots, and two murders in 55 seconds",
+      "originalTitle": "The chilling plot, three shots, and two murders in 55 seconds",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_0.7458%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/c58589c414055c407052ca94695a1ff4daab6d817c00a82caac20fb2e82e6e97",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:48Z",
+      "url": "https://www.smh.com.au/national/nsw/the-chilling-plot-three-shots-and-two-murders-in-55-seconds-20261125-p6162g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Control was everything to former NSW police officer Beau Lamarre-Condon. When he could not control former TV presenter Jesse Baird, he killed him and his new lover.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b077caadb894",
+      "title": "Neo-Nazis chased away from council meeting by angry locals",
+      "originalTitle": "Neo-Nazis chased away from council meeting by angry locals",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/b581a5bbceb32dea96c5c25a974ba38675219844",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:48Z",
+      "url": "https://www.smh.com.au/national/neo-nazis-chased-away-from-council-meeting-by-angry-locals-20261125-p61h5m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Neo-Nazi leader Thomas Sewell and his followers were pushed back as they tried to attend a council meeting and gatecrash a local community rally opposing their new Nazi compound in town.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8e43126fc022",
+      "title": "Indian teen wonder breaks List A record with 200 from 52 balls",
+      "originalTitle": "Indian teen wonder breaks List A record with 200 from 52 balls",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/de0295ef1d7a072597fddea6d367ba9d?impolicy=wcms_watermark_news&cropH=1697&cropW=3016&xPos=0&yPos=194&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:47Z",
+      "url": "https://www.abc.net.au/news/2026-11-25/indian-teen-vaibhav-sooryavanshi-breaks-list-a-record/107423990",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "India's teenage sensation Vaibhav Sooryavanshi scores 200 from 52 balls and sets several new List A records.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-09e4a8722b90",
+      "title": "Years in distant lands, back home on firmer ground",
+      "originalTitle": "Years in distant lands, back home on firmer ground",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0b3d4812507e99f07fe084b6431ea34b33479c73c113ab4eace2ad0d1a72c211?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:46Z",
+      "url": "https://www.straitstimes.com/singapore/years-in-distant-lands-back-home-on-firmer-ground",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "After years abroad, four Singaporeans return to familiar ground with new perspectives, finding the confidence to take risks.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-241f814e6b56",
+      "title": "‘The beginning of a different kind of hell’: How abuse, control may not end after separation",
+      "originalTitle": "‘The beginning of a different kind of hell’: How abuse, control may not end after separation",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/87a8cf67b274b8f8ecdde3ee8a968012c0abb0d081f0076cb86aa72ab095ede7?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:46Z",
+      "url": "https://www.straitstimes.com/singapore/community/its-the-beginning-of-a-different-kind-of-hell-why-abuse-control-may-not-end-after-separation",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "Aware found that 87% of survivors surveyed who tried to leave their abusers still experienced control after separation.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-857bd85d1c9b",
+      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "originalTitle": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--rPXv9Izh--/c_crop,h_562,w_1000,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Nvidia_76155.jpg?itok=MvFBattm",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:45Z",
+      "url": "https://www.channelnewsasia.com/world/nvidia-board-jensen-huang-under-scrutiny-6579411",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-23fd19800965",
+      "title": "California grand jury indicts Meghan Markle’s father on child porn charges",
+      "originalTitle": "California grand jury indicts Meghan Markle’s father on child porn charges",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--4UQMFMwy--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-24T232910Z_3_LYNXNPEMAN22T_RTROPTP_3_BRITAIN-ROYALS-MEGHAN.JPG?itok=412LGM4K",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:45Z",
+      "url": "https://www.channelnewsasia.com/world/thomas-markle-grand-jury-court-child-porn-6580226",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "Thomas Markle's legal troubles began after his son had discovered child sex abuse images while going through boxes found in his father's former home in the Philippines.",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1b96928677f5",
+      "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
+      "originalTitle": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--W56okOwB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-25T012150Z_2_LYNXNPEMAO03H_RTROPTP_3_GLOBAL-FOREX.JPG?itok=4E4wZwX4",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:45Z",
+      "url": "https://www.channelnewsasia.com/business/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps-cpi-6580096",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-77206d63c9b7",
+      "title": "Zaqy Mohamad talks on Middle East turmoil, job fears and PAP renewal",
+      "originalTitle": "Zaqy Mohamad talks on Middle East turmoil, job fears and PAP renewal",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e597abf7b9e1053b4eeba02738d77581449efa99876ba1ceb860472453548dd6?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:45Z",
+      "url": "https://www.straitstimes.com/singapore/zaqy-mohamad-talks-on-middle-east-turmoil-job-fears-and-pap-renewal",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "From the Middle East to AI job fears and PAP renewal, Zaqy Mohamad discusses the challenges facing Singapore.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9b33824020e4",
+      "title": "S-Oil completes 9 tln-won project to build petrochemical facilities in Ulsan",
+      "originalTitle": "S-Oil completes 9 tln-won project to build petrochemical facilities in Ulsan",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/etc/inner/EN/2026/11/25/AEN20261125003200320_04_i_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:44Z",
+      "url": "https://en.yna.co.kr/view/AEN20261125003200320",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 25 (Yonhap) -- S-Oil Corp., South Korea's third-largest refiner by s...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0271d746efe6",
+      "title": "Global Public Procurement Marketplace kicks off in Seoul",
+      "originalTitle": "Global Public Procurement Marketplace kicks off in Seoul",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/cms/2024/07/02/49/PCM20240702000049063_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:44Z",
+      "url": "https://en.yna.co.kr/view/AEN20261125002800320",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 25 (Yonhap) -- An event aimed at helping South Korean companies conn...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1c96e57035a7",
+      "title": "Twins re-sign Australian pitcher Kennedy to fill Asian quota",
+      "originalTitle": "Twins re-sign Australian pitcher Kennedy to fill Asian quota",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101425510001300_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:44Z",
+      "url": "https://en.yna.co.kr/view/AEN20261125002900315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 25 (Yonhap) -- The LG Twins announced Wednesday they have re-signed ...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6f5837b803d9",
+      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "originalTitle": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/7cf71a19-191c-4efd-9cb2-5b384644322a/AAABog5AniM/AAABnSSvrFg/16x9-big/huang-142.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:43Z",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4da53aef731a",
+      "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "originalTitle": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/c1a6120d-c092-49b2-ba1a-27686aeea3be/AAABog9uOx8/AAABnSSvrFg/16x9-big/kuba-havanna-110.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:42Z",
+      "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5e18530a0edb",
+      "title": "Brücken Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "originalTitle": "Brücken Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/4d80da7e-b67d-4d82-8fc9-ce619d62e6d2/AAABohBPwh4/AAABnSSvrFg/16x9-big/kiew-bruecke-100.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:41Z",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6b5df7960da0",
+      "title": "\"Russisches Starlink\" - Wie kann Rasswet den Ukraine-Krieg verändern?",
+      "originalTitle": "\"Russisches Starlink\" - Wie kann Rasswet den Ukraine-Krieg verändern?",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:40Z",
+      "url": "https://www.dw.com/de/russisches-starlink-wie-kann-rasswet-den-ukraine-krieg-verändern/a-80033063?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Das US-Starlink-System von SpaceX spielt in der Ukraine eine wichtige Rolle bei der Abwehr der militärischen Aggression Russlands. Der Kreml hat nun beschlossen, ein Pendant dazu aufzubauen. Welche Gefahr birgt das?",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f4f50f513f5d",
+      "title": "Europäischer Menschenrechtsgerichtshof erlaubt teilweise Pushbacks an EU-Außengrenzen",
+      "originalTitle": "Europäischer Menschenrechtsgerichtshof erlaubt teilweise Pushbacks an EU-Außengrenzen",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:40Z",
+      "url": "https://www.dw.com/de/europäischer-menschenrechtsgerichtshof-erlaubt-teilweise-pushbacks-an-eu-außengrenzen/a-80041604?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Der Europäische Gerichtshof für Menschenrechte (EGMR) lässt Pushbacks unter gewissen Bedingungen zu. Was bedeutet das Urteil für die europäische Migrationspolitik?",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4309bb1f5845",
+      "title": "Deutsche Experten vor dem EU-Westbalkan-Gipfel: Unter der Regierung der Studentenliste muss sich Serbien zwischen Aufbruch und Kontinuität entscheiden",
+      "originalTitle": "Deutsche Experten vor dem EU-Westbalkan-Gipfel: Unter der Regierung der Studentenliste muss sich Serbien zwischen Aufbruch und Kontinuität entscheiden",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:40Z",
+      "url": "https://www.dw.com/de/deutsche-experten-vor-dem-eu-westbalkan-gipfel-unter-der-regierung-der-studentenliste-muss-sich-serbien-zwischen-aufbruch-und-kontinuität-entscheiden/a-80019985?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Serbiens neue Führung sorgt in der Europäischen Union für Hoffnung und Skepsis zugleich. Deutsche Westbalkan-Experten sehen Chancen für Reformen, aber offene Fragen bei EU-Kurs, Kosovo und Russland.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-fe204a8aad1f",
+      "title": "フランス訪問巡り鎌倉市民が市長を提訴「前市議長の旅費返還請求を」",
+      "originalTitle": "フランス訪問巡り鎌倉市民が市長を提訴「前市議長の旅費返還請求を」",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261124003276_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:39Z",
+      "url": "http://www.asahi.com/articles/ASVCS35Z6VCSULOB012M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：フランス訪問巡り鎌倉市民が市長を提訴「前市議長の旅費返還請求を」",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-89226fcde654",
+      "title": "帰国する外国人口座を譲渡か、男ら逮捕 200枚集め特殊詐欺Gへ？",
+      "originalTitle": "帰国する外国人口座を譲渡か、男ら逮捕 200枚集め特殊詐欺Gへ？",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261125000391_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:38Z",
+      "url": "http://www.asahi.com/articles/ASVCS5J6ZVCSUTIL01QM.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：帰国する外国人口座を譲渡か、男ら逮捕 200枚集め特殊詐欺Gへ？",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b199d0b79b10",
+      "title": "埼玉・上尾で木造2階建て住宅が全焼、住人の男性2人と連絡とれず",
+      "originalTitle": "埼玉・上尾で木造2階建て住宅が全焼、住人の男性2人と連絡とれず",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261125001185_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:38Z",
+      "url": "http://www.asahi.com/articles/ASVCT029HVCTUDCB008M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：埼玉・上尾で木造2階建て住宅が全焼、住人の男性2人と連絡とれず",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d66e878fdbd7",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "originalTitle": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:37Z",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7e56c816e400",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "originalTitle": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:37Z",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e55afba8b0b7",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "originalTitle": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:37Z",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5cb1594f120c",
+      "title": "Thomas Markle formally charged over child sexual abuse material",
+      "originalTitle": "Thomas Markle formally charged over child sexual abuse material",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:03:37Z",
+      "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5a38ea3cf5a9",
+      "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
+      "originalTitle": "Huawei guilty of plotting to steal trade secrets and bank fraud",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-huawei-mobile-logo_7415657.jpg?20261124210537",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:03:37Z",
+      "url": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b14a5fe11403",
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "originalTitle": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "category": "國際焦點",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:33Z",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a260bc293420",
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "originalTitle": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:03:28Z",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6cdde2cd8d1b",
+      "title": "黃仁勳火速回歸輝達 沈榮欽分析3大風險揭隱憂",
+      "originalTitle": "黃仁勳火速回歸輝達 沈榮欽分析3大風險揭隱憂",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/phpZHyKxM.png",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:24Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5652344",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "輝達創辦人黃仁勳日前才剛辭職又火速回任執行長，加拿大約克大學副教授沈榮欽發文分析，黃仁勳坐牢的風險來自三方，並直言輝達突然同意讓黃仁勳回鍋，可能是川普已經提出擔保，但這不代表黃仁...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-629ca00b9cdf",
+      "title": "美軍中士向中國買家出售軍事機密 恐面臨10年監禁與823萬罰款",
+      "originalTitle": "美軍中士向中國買家出售軍事機密 恐面臨10年監禁與823萬罰款",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/phpSryNMQ.png",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:23Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5652390",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "1名美國軍人23日因承認洩漏敏感軍事資訊，將面臨最高10年的刑期。他先前曾將自稱是「最高機密」的技術知識出售給與中國有關聯的買家。 根據《法新社》報導，現年37歲的陸軍中...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d57d674af8c1",
+      "title": "川普特赦2隻感恩節火雞 將送往德州安享晚年",
+      "originalTitle": "川普特赦2隻感恩節火雞 將送往德州安享晚年",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/25/phpSXIJJW.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:03:22Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5652426",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "美國總統川普曾形容總統赦免權是「極大的權力」，今天他在白宮動用這項權力特赦2隻火雞「自由」和「羽毛」，讓牠們免於淪為感恩節大餐的命運，將送往德州安享晚年。 路透社報導，這2隻4個月大的...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-36e6cf6327f2",
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "originalTitle": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Lobsters & Reddit 開發者熱議",
+      "sourceId": "src-global-community",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=s.conao3.com&sz=64",
+      "bannerImage": "https://s.conao3.com/og/blog/2026/e4f733.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-25T02:03:20Z",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Comments",
+      "keyChanges": [
+        "來源：Lobsters & Reddit 開發者熱議（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2329da261797",
+      "title": "Inflation rate jumps to 4.9% as Australia’s cost of living crisis intensifies - The Guardian",
+      "originalTitle": "Inflation rate jumps to 4.9% as Australia’s cost of living crisis intensifies - The Guardian",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Guardian",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:13Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1NTaWoxaXBTS1JIQ0hCQm9vMnhJWnZYeXVwSWhHU0ZISXhfS2t0b0VIZEVVcWc0MGlha19ld2pTYVc1X20xSTRSSmlQbV8ta29TMzU4WUdVOEJfcGZVbFo1WmZKVzF3RXFfVTFNbXVPcFVzM19KN0VGSFRkMlN3Q25UT1d5dlNTRHEtbVZWZHRKS0U?oc=5",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Inflation rate jumps to 4.9% as Australia’s cost of living crisis intensifies The Guardian Australian politics live: Labor exempts pensioners from bill cutting private health rebates for over-65s; Steggall changes party name The Guardian ASX 200 LIVE: ASX to slip, Anthropic shares fall below IPO price, Nvidia slides an",
+      "keyChanges": [
+        "來源：The Guardian（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-535d3924d0f9",
+      "title": "Beau Lamarre-Condon found guilty of murdering Sydney couple - ABC News & Headlines – Australian Broadcasting Corporation",
+      "originalTitle": "Beau Lamarre-Condon found guilty of murdering Sydney couple - ABC News & Headlines – Australian Broadcasting Corporation",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUVpV0VtSWVyYnpEb0hkSkcycGtJTk5FWU05QjZXZWtyck9zWnVLRUdSTHVNVXNWMFRTQ2ota3I0MUV3T2NyQi1UcHFNeF9lWFhlem5JbDNyN3NmMVNXeERYMUdkRklnelYtY2ZMZkc5VGcyekpzVEpuUXRhajRfaTkxMklnMEZWYmxEdVZkb2cyVzBnSXpnVEF6NWFtd2hxREktLWpWeG9JU1QzR2dkR2tOTQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Beau Lamarre-Condon found guilty of murdering Sydney couple ABC News & Headlines – Australian Broadcasting Corporation Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies The Guardian Beau Lamarre: Sydney police officer convicted of murder of Jesse Baird and Luke Davies BBC Live: Jury in Beau Lama",
+      "keyChanges": [
+        "來源：ABC News & Headlines – Australian Broadcasting Corporation（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8fdeef1d4903",
+      "title": "Pensioners win private health insurance rebate carve out - ABC News & Headlines – Australian Broadcasting Corporation",
+      "originalTitle": "Pensioners win private health insurance rebate carve out - ABC News & Headlines – Australian Broadcasting Corporation",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-25T02:03:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXUyeDBJTzBXUFVTZDNSS0lIWl9yaTI4RW10ZWRsZkd3Y0l6MGZyWEFhNFZMNWJnUDVJajg3WUEyWUd2cGxfNGU4UFk0SGVWWGwySEhzaWxwdDlPYTVPOXpENHJneVNDVnQxYXFaSnNsWWVSRno3LU5Pd3RWdjJBMTFSSlZBTElXbnBSdU1iY2lnMmlXTTFBWXFMRVV1bnMwUmNaeEpDaUptdjBVV0hJRF9BTQ?oc=5",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Pensioners win private health insurance rebate carve out ABC News & Headlines – Australian Broadcasting Corporation Politics latest: Private health insurance hike for non-pensioners; Wells spruiks ‘terrific’ Treasurer The Australian Australian politics live: Labor exempts pensioners from bill cutting private health reb",
+      "keyChanges": [
+        "來源：ABC News & Headlines – Australian Broadcasting Corporation（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8c2e503ffcfe",
+      "title": "Vanessa Emde wird aus Berliner Linke-Fraktion ausgeschlossen – und kritisiert „mediale Hetzkampagne“ - WELT",
+      "originalTitle": "Vanessa Emde wird aus Berliner Linke-Fraktion ausgeschlossen – und kritisiert „mediale Hetzkampagne“ - WELT",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "WELT",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.welt.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQjhGTm55ZTRPem5vMVVSRHQ2OWhJLTlBZ2Z6Mnd2VWh2MTRNMmhXdUJyUlNaX21DM1B4NGZHXzZOeldYdzZQeEZiZk1TR09mNUZHS1dKY0xXVXg2QlA5dUFtMVlpS1lEOTY5VFJORk5xOXBSWmRqVjBHWWZtMlduSndoSlVzdE5CaVgzWUw1ZFFmUWhleG5pY29zYlJYZ0ZfQl9QSGhmODlxNXUxR0tVa0NIMFNmaVJpakU0cC1BUVUwWEM3aEQ2ZF92QWw2cUZoZzJ3UFpsS0NsX19wYXhtcHJYQm5yOGtDbmFCOWNNdXgwal9FNEF1ZWZZMVQtbHBZbGZ4V1FhUGdIU3RvT19Qd21VVUpHU0p5d1VOZA?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Vanessa Emde wird aus Berliner Linke-Fraktion ausgeschlossen – und kritisiert „mediale Hetzkampagne“ WELT Meinung: Die Linke und Vanessa Emde: Endlich eine rote Linie! - Kommentar Spiegel \"Vertrauensverlust\" - Vanessa Emde aus Berliner Linke-Fraktion ausgeschlossen Deutschlandfunk Berlin: Linke wirft Israel-Hasserin Va",
+      "keyChanges": [
+        "來源：WELT（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1c65224eab64",
+      "title": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder - Handelsblatt",
+      "originalTitle": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder - Handelsblatt",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Handelsblatt",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.handelsblatt.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3ZETkdVdjJMb2hINWU1emNvUFVDR201UkRsREtGTjhUYm1EeGxxTXNOdGtDdFBJTVJFTjRhSjJXYU5rU0ZtaGJUOFU4MS1ySnRXSnJnRVc4T24xQlNkY2RGR2JfN3Utcm5vTm9QSjFLRW45d19Obm1aeUpSRHhKSjZUZEtjM0ZvemJMdW1xLWhLOTJJUmUtZjFyUmpVcndZa2h6cjg3THNHNXREZExEVkhOM0xmRklfZ0t6RFFmUUJweUF1SF9ick5R?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder Handelsblatt Sanktionspaket: Keine Athleten mehr unter russischer Flagge tagesschau.de EU-Sanktionen gegen Russland im Sport: Überfällige Antwort – Kommentar FAZ Neues Sanktionspaket: EU verbietet Teams und Sportler unter russischer Flagge sportschau.de E",
+      "keyChanges": [
+        "來源：Handelsblatt（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ffbb18aca7a6",
+      "title": "Lücken bei der Abwehr: Kreml-Raketen über Polen: \"Die Eskalation ist klar erkennbar\" - n-tv.de",
+      "originalTitle": "Lücken bei der Abwehr: Kreml-Raketen über Polen: \"Die Eskalation ist klar erkennbar\" - n-tv.de",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "n-tv.de",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.n-tv.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXFJRXNCQUI4eThTYVhVSlVIcnZRaUkxR19XWTdRMV9GQmVhS2g0dGdWVG9KNkhfdDNpTVVhZ05pV3hkbG1HMVM1Sl9TWDN4aXZIR25kUWJ2cjMxRUdmNGJGWWwxbVNsWEJtdklGYUdXMlg0bVNUS1RTa2p4SFJVNHZtcjVRUURLU0ZDYUlXeFl2MHlPTlVJakdhNHVBNnNWa0ZpOHJn?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Lücken bei der Abwehr: Kreml-Raketen über Polen: \"Die Eskalation ist klar erkennbar\" n-tv.de Polen: Luftalarm wegen russischer Drohnen – Anwohner sollen Schutzräume aufsuchen WELT Alarm an der Grenze zu Russland: Drohne dringt in Luftraum über Polen ein Spiegel Russische Raketen in Polen: Wie die NATO wenige Kilometer ",
+      "keyChanges": [
+        "來源：n-tv.de（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c4305bd2672b",
+      "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+      "originalTitle": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "조선일보",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.chosun.com&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "서울 지하철 노사협상 타결… 총파업 철회 조선일보 서울지하철 노사 밤샘 협상 타결…출근길 정상 운행 KBS 뉴스 지하철 운행 정상화 뉴시스 [게시판] KT&G, '연말 김장김치 나눔' 활동 진행 매일경제 마켓 서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다 연합뉴스",
+      "keyChanges": [
+        "來源：조선일보（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-964e902633ac",
+      "title": "[여의도 앨리스] ‘조작징계’ 의혹 잇단 폭로에도 국민의힘 의원 다수는 왜 시큰둥할까 - 경향신문",
+      "originalTitle": "[여의도 앨리스] ‘조작징계’ 의혹 잇단 폭로에도 국민의힘 의원 다수는 왜 시큰둥할까 - 경향신문",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "경향신문",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.khan.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFRNeENYNnlSeV9UeUo5cWhiX3dMNFNIRlo3eVpLRFlyaXVXVk56VHNFS19YUkM1d0RiSlNrZ3JMbkxtYWJ3UWw4WUJLU1p4Njg0Q0dJbWx2Z9IBX0FVX3lxTFA1c0tXYjNVTDFCajg2N25vTHNZQjdlN3FocUliVWp4X21zOFJMQ2o5YU9YdWEtWWtwVk5YUFAxblFCOFJFSlVuN1FXWTVGaWwtenBzRWE0Q2g5VFBSWnU4?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "[여의도 앨리스] ‘조작징계’ 의혹 잇단 폭로에도 국민의힘 의원 다수는 왜 시큰둥할까 경향신문 \"10억 요구 거절당하자 폭로\"…역공 나선 장동혁 측 JTBC 장동혁 \"한동훈은 보수 궤멸의 중심\"…한동훈 \"징계 조작 자인한 것\" 주간조선 김현정 “장동혁 물러나도 한동훈 복당 어려워, 창당해야” [김은지의 뉴스IN] 시사IN 김재섭 \"윤리위 징계 배후 새삼 드러나…독립성에 매우 문제 있어\" - 머니투데이 머니투데이",
+      "keyChanges": [
+        "來源：경향신문（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ae23266dc233",
+      "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+      "originalTitle": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "한겨레",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.hani.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 한겨레 Google 뉴스에서 헤드라인 및 의견 더보기",
+      "keyChanges": [
+        "來源：한겨레（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a75c32f895be",
+      "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - CNA",
+      "originalTitle": "China's Huawei convicted in sprawling US criminal trial over Iran business - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0NtZWVmXzVwSkd4ajhwNVp1Y2NldE5URFRoQ0MxZXZoT1VabENCZFl3VTBScVNYZTQySEFvWV80azhCMG1xYjhmR0dJX1pOV1RwOVA1VFh5ZC1kT3c2X1BRN3YxMi1pRE16M0FCdWs4X0lWTVRkYTExcEx4eGh5dl9PNEpFcnl2WXBCdURocWJtMG1rdENyQmg5ZmdNcGhNMUFWMlRyWTUyNnBt?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "China's Huawei convicted in sprawling US criminal trial over Iran business CNA Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC China’s Huawei Convicted of Fraud in U.S. Criminal Trial WSJ Huawei guilty on 10 of 12 counts after months-long battle in US courtroom South China Morning Post H",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-059f766a8ead",
+      "title": "China investigates Shanghai party chief Chen Jining, Xinhua says - CNA",
+      "originalTitle": "China investigates Shanghai party chief Chen Jining, Xinhua says - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1UZTU4ajhQYUh0Y05YdE9yQXBkQ0ZmbUxtcmp1ZmR4akRLZEtLeWZBZUNyYTU3VG1zRFFDOVlVOVctdVk2Q0l1akJNeDdqbkNSOEcwQ05jWHhMa3JxckFKWThzbjFLVTU5YkZLbTNrb1FIQkRnd3dJbFlET3NkQ01sSjNDVHA1UDd5aUhfVV9jTnFWVjRINGxQNFJOUQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "China investigates Shanghai party chief Chen Jining, Xinhua says CNA Shanghai party pledges loyalty to Beijing as top official faces investigation CNA China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025 Reuters Key Chinese Communist Party figure placed under corruption probe",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-84b4daacbe61",
+      "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release - CNA",
+      "originalTitle": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-25T02:03:12Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVGFfRG9RSWFKOFdROVNDLU10Q0Y2R21UMjFObzhVR1dxODI1cnBZMVlZb0RxS2dDTmFVTEVvVTRHSHFpYWpsOVd2R1FuQ3QxcWo4OVlOZmhFY1dLbXlPMGVVdGxSek9fcUtqZ0V0YzNuUWhHWWE1Y0ZlYUs?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release CNA PS5 Pro restock tracker: where to find PS5 Pro in stock Black Friday week The Shortcut PlayStation 5s disappear from shelves as GTA VI fever grips Korea Korea JoongAng Daily The Latest PlayStation Is 6 Years Old and Twic",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7f08f4fafccb",
+      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」 - 読売新聞",
+      "originalTitle": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」 - 読売新聞",
+      "category": "財經科技",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "読売新聞",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.yomiuri.co.jp&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:09Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Q0toZXlmMlgxOTJoWnd2T04xc3RnT2s3SFNYY2hwSU9zdjJZdjdpWWpRVnk3ZHEtdjZqR180OEVfRWtPSVZPS1l3V29DOFRIYVVqYUpfWDJWT1dYOWVSY1dn?oc=5",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」 読売新聞 ソロモンが豪と新条約署名、対中協力見直し 沖縄タイムス社 ソロモン諸島、オーストラリア、中国、台湾 - ソロモン対中協定終了方針 豪と新条約署名か - 写真・画像(1/1) 西日本新聞me ソロモン諸島、中国との安保協定破棄へ 豪州との関係強化に転換 毎日新聞 ソロモン諸島、豪と安保協定署名 最優先の防衛協力相手に（ロイター） Yahoo!ニュース",
+      "keyChanges": [
+        "來源：読売新聞（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-924a8637bfcb",
+      "title": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕 - NHKニュース",
+      "originalTitle": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕 - NHKニュース",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "NHKニュース",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.web.nhk&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:09Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdTk2MVVmMnJxZDBTdXpxMkk0M1ZsOEJDZ3FqckZoaXUxRUhWaXczWEFpa2p2LVo3Mi0yOWtyS3A2QTBYdlF5SjAwcFRkYk15TnhOM29xX09MSHd5Z2pv?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕 NHKニュース 広島女性死亡 強盗殺人疑い男逮捕 Yahoo!ニュース 【会見】広島・庄原市高齢女性殺害事件 ５５歳の会社員の男を逮捕（2026年11月24日掲載） 日テレNEWS NNN 親族「長かった」1年5カ月で急展開 男から事情聴く 広島・庄原殺人事件 テレ朝NEWS 高齢女性殺人事件で配送業の55歳男を逮捕 事件から1年5カ月で急展開 「殺意なかった」 広島・庄原市 au Webポータル",
+      "keyChanges": [
+        "來源：NHKニュース（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3a3270baaeac",
+      "title": "今日11月25日(水)の天気予報 北日本は雪や風の強まりに注意 太平洋側も風が冷たい - ウェザーニュース",
+      "originalTitle": "今日11月25日(水)の天気予報 北日本は雪や風の強まりに注意 太平洋側も風が冷たい - ウェザーニュース",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ウェザーニュース",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=weathernews.jp&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-25T02:03:09Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Uk9rQ0NYQnVOdU5seGpqUFNTUVRTSFFuT1VxMWdMWVZ0SXRuVXBFUzZWVzQ0TjNVRXM2Z1ptdlUxTlVLM1NxLUxGTGliX2szRmRSWg?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "今日11月25日(水)の天気予報 北日本は雪や風の強まりに注意 太平洋側も風が冷たい ウェザーニュース 北海道や東北はふぶきや積雪増に注意 全国的に風が冷たい 今日25日(水)の天気(気象予報士 日直主任) tenki.jp 全国の9割で昨日の朝より冷え込み 札幌は10℃以上低下 ウェザーニュース \"短期集中型\"の寒気が流入、今週後半はまた雨に…\"春みたい\"：な気温変化も：気象予報士解説（植松愛実） - エキスパート Yahoo!ニュース 北日本はふぶき 北陸は雷雨のおそれ 太平洋側は晴れるも北風冷たく空気は乾燥 TBS NEWS DIG",
+      "keyChanges": [
+        "來源：ウェザーニュース（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-22ab728d6bfa",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "originalTitle": "US attorney general dodges questions about Nvidia investigation",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-94a6c06b44bc",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "originalTitle": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7ada63daa953",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "originalTitle": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-57e7d44bf262",
+      "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up - The Guardian",
+      "originalTitle": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up - The Guardian",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "The Guardian",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2NGNkl3a3JSQlViZHVBZlJyNkdyYkZ6aGlSaE5kclgySFdpWUV0enBaQXdHUW1HaEh6bUdzejhJSkdmc1RPZ3R5b1JNZHZvOVo5SmtfblZQa2kwX0o4U0dkYjg2dldZSjFocDFSNmN2ckJzSkhLbjN3MkV4UzZLcTZmX0xjclYzOGRfeXFiR0JnUWItdC1WM3h1VFJWUzNMMThfRTFCYUZBcGFid1pfaU1jVQ?oc=5",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up The Guardian Ministers approve fast-track disability payments in England and Wales The Guardian Newspaper headlines: 'PIP benefits \"not fit for purpose\"' and Royal 'security scare' BBC Pip disability benefit review calls for closer ",
+      "keyChanges": [
+        "來源：The Guardian（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e1552479a64c",
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel - BBC",
+      "originalTitle": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CUkxaYXQ5T0oxdV9qN0lhb2ljWHVIU3E4SVRXeFlKTmk3VVJKTFhZWWVBc2w0dkk3SkplZXFEcEJ4X3pzcTBkWlE0WDZkRHVyZUFVelVqSzNpVmtmekE?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel BBC Burnham launches inquiry into nuclear bomb test veterans’ records The Guardian “Nuclear test veterans and their families have waited too long for the truth” – PM announces Independent Panel on nuclear weapons testing GOV.UK Pa",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a3ab6c97f360",
+      "title": "Met Office weather maps show snow in North East on Friday as 23 UK areas set to be hit - full list - Chronicle Live",
+      "originalTitle": "Met Office weather maps show snow in North East on Friday as 23 UK areas set to be hit - full list - Chronicle Live",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Chronicle Live",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.chroniclelive.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-25T02:02:54Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlE0akdoRkstZUZReXcwYzRPNTVvaUw0TUJ4WWpqOU9WNVlfVmZJM2NSMDUzU1Raa05IMTNQak9zb2s5eUcwRmNWVS1QQXI0cjN5UjJhOUg0RG4zOGNTOWVMMlpQc0VrYzB5dHNuTWs5ZXNpck9KTHd5WGlqN1FoOXNfakp2UEZwMjRkaWd1Q2h6OWR10gGaAUFVX3lxTFBpYlZ0TVhMa1FFZ1NMSURjd1Z0cF9COGJmSVRpcmM0MTByVmsxNko0ZU9LTkxRdTRQMWFDOHMyY0hYMzBtcHlIVEVtSTBMZHNLbmIxa2dwQVNiNjRZSmhFanNRcmd3ZzQtbFlpWGZFSW1FMEZVRmwzWXU4SUx1cXNWLWl6OWtsSVhTTG8yblREelNNWWdpQWZZNWc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Met Office weather maps show snow in North East on Friday as 23 UK areas set to be hit - full list Chronicle Live Coldest spell of autumn continues with risk of hill snow, ice and heavy rain BBC Snow and frost forecast as cold health alerts in parts of UK Sky News Temperatures set to drop to lows of minus 9C – here’s w",
+      "keyChanges": [
+        "來源：Chronicle Live（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-484bc486253a",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "originalTitle": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "TechCrunch",
+      "sourceId": "src-us-techcrunch",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64",
+      "bannerImage": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrat",
+      "keyChanges": [
+        "來源：TechCrunch（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-284eef91f1fe",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "originalTitle": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "TechCrunch",
+      "sourceId": "src-us-techcrunch",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64",
+      "bannerImage": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "keyChanges": [
+        "來源：TechCrunch（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-25d916a21139",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "originalTitle": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "TechCrunch",
+      "sourceId": "src-us-techcrunch",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64",
+      "bannerImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "keyChanges": [
+        "來源：TechCrunch（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d07edfe7acc7",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "originalTitle": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "category": "財經科技",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0676bbed2e43",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "originalTitle": "The Verge’s 2026 gift guide for dads",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bff80c1b7e08",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "originalTitle": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&strip=all&crop=0%2C10.728900360203%2C100%2C78.542199279594&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:53Z",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f115f8b4e52a",
+      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+      "originalTitle": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Washington Post",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.washingtonpost.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:52Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate The Washington Post Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning The New York Times Iowans tape windows, cover gardens and flee with their children as lead explosion looms NBC News Latest maps provided by US Ar",
+      "keyChanges": [
+        "來源：The Washington Post（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-eb8e7abcdb52",
+      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal - The New York Times",
+      "originalTitle": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal - The New York Times",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:52Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3luSEIwNEp4bmdNMHdYRVllVUJabUJwOVRQWkZ6OHMyUWhBa2ZEZXRqY1kxc0publ9kZ3hZX2M3OTJydklOeXZXMzBXZGRRem5nbUl3d3Y1SHE1aDgtbGVjdDQ3dmpWZm9NRnN1UnU5U0hLTl83VnpyQ0gtWE9fTWJOdUk0cUhMNDVF?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal The New York Times Kilmar Abrego Garcia self-deports to Spain: Reports The Hill Kilmar Ábrego García, man at center of Trump deportation battle, leaving US The Guardian Kilmar Abrego Garcia, who fought being mistakenly sent to El Salvador, is self-",
+      "keyChanges": [
+        "來源：The New York Times（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-914717b49819",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering - BBC",
+      "originalTitle": "Huawei found guilty of stealing trade secrets but acquitted of racketeering - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-25T02:02:52Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ob0RXbGVjVm9xcjdLQkl6UW9ndDFEcjViS0lpN1c4RW9BX1RBYzNzcmhyN0lVN3JnSU1nY1JDN2ZRemYyY2wzUm9GcjNsMC03cXlGSnRZWTgtTjQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Huawei found guilty of stealing trade secrets but acquitted of racketeering BBC US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial The New York Times China’s Huawei Convicted of Fraud in U.S",
+      "keyChanges": [
+        "來源：BBC（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-35688e3ed683",
+      "title": "降雨",
+      "originalTitle": "降雨",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:02:46Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_RAIN/fifows_extremely-rain_202611250355.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "由於降雨趨於緩和，發生大雨的機率降低，故解除大雨特報。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-88cf30deb55b",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-25T02:02:45Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611250423.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風明顯偏強，25日晨至晚上桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣、連江縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
     {
       "id": "cbl-95abb7aad196",
       "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
@@ -6734,6 +10046,123 @@
         "markdown": "---\ntitle: \"Google alternative Kagi launches an email service\"\ndate: \"2026-11-24T00:02:52.000Z\"\ncountry: \"美國 (US)\"\nsector: \"民間社群\"\ncategory: \"財經科技\"\npriority: \"重點報導\"\nmarkers: [\"民間社群\", \"美國\", \"財經科技\", \"重點報導\", \"US\", \"AI\"]\nsource_url: \"https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative\"\n---\n\n# Google alternative Kagi launches an email service\n\n> **標記摘要**：`民間社群` · `美國` · `財經科技` · `重點報導` · `US` · `AI`\n\n## 核心重點整理（非全文轉載）\n\nKagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230\n\n## 關鍵標記條列\n1. 來源頻道：The Verge（美國 / 民間媒體）\n2. Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google s\n\n## 影響範圍與建議行動\n- **受影響對象**：美國 (北美) · 財經科技 關注讀者與跨國資訊追蹤者\n- **建議下一步**：點擊「前往原始來源」查閱媒體完整報導或官方發布頁面。\n\n[檢視原始公開來源 (The Verge)](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)",
         "generatedAt": "2026-11-24T01:59:14.405Z"
       }
+    },
+    {
+      "id": "cbl-5e9b12c4748b",
+      "title": "[CISA KEV] CVE-2026-132224: Optimizely Web Experimentation — Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "originalTitle": "[CISA KEV] CVE-2026-132224: Optimizely Web Experimentation — Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "official",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "CISA KEV 美國官方資安漏洞庫",
+      "sourceId": "src-us-cisa-kev",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=cisa.gov&sz=64",
+      "bannerImage": "",
+      "version": "CVE-2026-132224",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+      "heatScore": 95,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "資安公告",
+        "CVE-2026-132224",
+        "Optimizely"
+      ],
+      "aiSummary": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through Optimizely-hosted assets and executed in browsers visiting affected customer websites.",
+      "keyChanges": [
+        "受影響廠商與產品：Optimizely / Web Experimentation",
+        "CISA 強制修補期限：2026-11-27"
+      ],
+      "impactScope": "使用 Optimizely Web Experimentation 之組織環境。",
+      "migrationSteps": [
+        "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d8a2f9d8f148",
+      "title": "[CISA KEV] CVE-2026-131914: Idunno AntiCsrf — Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "originalTitle": "[CISA KEV] CVE-2026-131914: Idunno AntiCsrf — Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "official",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "CISA KEV 美國官方資安漏洞庫",
+      "sourceId": "src-us-cisa-kev",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=cisa.gov&sz=64",
+      "bannerImage": "",
+      "version": "CVE-2026-131914",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
+      "heatScore": 95,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "資安公告",
+        "CVE-2026-131914",
+        "Idunno"
+      ],
+      "aiSummary": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "keyChanges": [
+        "受影響廠商與產品：Idunno / AntiCsrf",
+        "CISA 強制修補期限：2026-11-27"
+      ],
+      "impactScope": "使用 Idunno AntiCsrf 之組織環境。",
+      "migrationSteps": [
+        "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bafd0c8bfe04",
+      "title": "[CISA KEV] CVE-2026-132165: Drupal Core — Drupal Core Remote Code Execution Vulnerability",
+      "originalTitle": "[CISA KEV] CVE-2026-132165: Drupal Core — Drupal Core Remote Code Execution Vulnerability",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "official",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "CISA KEV 美國官方資安漏洞庫",
+      "sourceId": "src-us-cisa-kev",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=cisa.gov&sz=64",
+      "bannerImage": "",
+      "version": "CVE-2026-132165",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+      "heatScore": 95,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "資安公告",
+        "CVE-2026-132165",
+        "Drupal"
+      ],
+      "aiSummary": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.",
+      "keyChanges": [
+        "受影響廠商與產品：Drupal / Core",
+        "CISA 強制修補期限：2026-11-27"
+      ],
+      "impactScope": "使用 Drupal Core 之組織環境。",
+      "migrationSteps": [
+        "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
     },
     {
       "id": "cbl-83b5d3c89262",
