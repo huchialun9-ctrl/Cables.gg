@@ -8,7 +8,7 @@
     "targetLanguage": "zh-Hant",
     "autoCommit": true,
     "autoPushEnabled": true,
-    "lastRunAt": "2026-11-26T16:38:06Z",
+    "lastRunAt": "2026-11-27T01:35:16Z",
     "nextRunAt": "2026-11-24T06:08:54.745Z",
     "lastRunStatus": "success",
     "shifts": [
@@ -68,7 +68,7 @@
       "type": "Official CERT RSS",
       "endpoint": "https://www.twcert.org.tw/tw/rss-104-1.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     },
@@ -83,7 +83,7 @@
       "type": "Official Gov Atom",
       "endpoint": "https://alerts.ncdr.nat.gov.tw/RssAtomFeed.ashx",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 10
     },
@@ -98,7 +98,7 @@
       "type": "RSS / Atom",
       "endpoint": "https://feeds.feedburner.com/cnaFirstNews",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 5
     },
@@ -128,7 +128,7 @@
       "type": "Public Gov JSON",
       "endpoint": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 11
     },
@@ -143,7 +143,7 @@
       "type": "Official Gov RSS",
       "endpoint": "https://www.sec.gov/news/pressreleases.rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     },
@@ -158,7 +158,7 @@
       "type": "Official Gov RSS",
       "endpoint": "https://www.nist.gov/news-events/news/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 2
     },
@@ -173,9 +173,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-us-techcrunch",
@@ -188,9 +188,9 @@
       "type": "RSS / Atom",
       "endpoint": "https://techcrunch.com/feed/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 18
+      "itemsCaptured": 21
     },
     {
       "id": "src-us-theverge",
@@ -203,9 +203,9 @@
       "type": "RSS / Atom",
       "endpoint": "https://www.theverge.com/rss/index.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-gb-ncsc",
@@ -218,7 +218,7 @@
       "type": "Official Gov RSS",
       "endpoint": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 4
     },
@@ -233,9 +233,9 @@
       "type": "RSS / Atom",
       "endpoint": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-gb-google",
@@ -248,9 +248,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-jp-jpcert",
@@ -263,7 +263,7 @@
       "type": "Official CERT RDF",
       "endpoint": "https://www.jpcert.or.jp/rss/jpcert-all.rdf",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     },
@@ -278,7 +278,7 @@
       "type": "RSS / Atom",
       "endpoint": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 5
     },
@@ -293,9 +293,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-eu-certeu",
@@ -308,7 +308,7 @@
       "type": "Official EU CERT RSS",
       "endpoint": "https://cert.europa.eu/publications/security-advisories-rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 2
     },
@@ -323,9 +323,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 22
     },
     {
       "id": "src-kr-google",
@@ -338,9 +338,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-sg-google",
@@ -353,9 +353,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=en-SG&gl=SG&ceid=SG:en",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-au-google",
@@ -368,9 +368,9 @@
       "type": "Google News RSS",
       "endpoint": "https://news.google.com/rss?hl=en-AU&gl=AU&ceid=AU:en",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 20
+      "itemsCaptured": 23
     },
     {
       "id": "src-global-hn",
@@ -398,7 +398,7 @@
       "type": "GitHub Releases API",
       "endpoint": "https://api.github.com/repos/vitejs/vite/releases?per_page=3",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 8
     },
@@ -413,9 +413,9 @@
       "type": "GitHub Releases API",
       "endpoint": "https://api.github.com/repos/vercel/next.js/releases?per_page=3",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 8
+      "itemsCaptured": 9
     },
     {
       "id": "src-global-github-changelog",
@@ -428,7 +428,7 @@
       "type": "RSS / Atom",
       "endpoint": "https://github.blog/changelog/feed/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 7
     },
@@ -443,7 +443,7 @@
       "type": "RSS / Atom",
       "endpoint": "https://blog.cloudflare.com/rss/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 6
     },
@@ -458,9 +458,9 @@
       "type": "RSS / Atom",
       "endpoint": "https://lobste.rs/rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 14
+      "itemsCaptured": 16
     },
     {
       "id": "src-tw-udn",
@@ -473,7 +473,7 @@
       "type": "Media RSS",
       "endpoint": "https://udn.com/rssfeed/news/2/6638?ch=news",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 0
     },
@@ -488,9 +488,9 @@
       "type": "Media RSS",
       "endpoint": "https://news.ltn.com.tw/rss/world.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-us-npr",
@@ -503,7 +503,7 @@
       "type": "Media RSS",
       "endpoint": "https://feeds.npr.org/1001/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 16
     },
@@ -518,7 +518,7 @@
       "type": "Media RSS",
       "endpoint": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 14
     },
@@ -533,7 +533,7 @@
       "type": "Media RSS",
       "endpoint": "https://www.theguardian.com/world/rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 7
     },
@@ -548,9 +548,9 @@
       "type": "Media RSS",
       "endpoint": "https://feeds.skynews.com/feeds/rss/world.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 13
+      "itemsCaptured": 15
     },
     {
       "id": "src-jp-asahi",
@@ -563,9 +563,9 @@
       "type": "Media RDF",
       "endpoint": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-de-dw",
@@ -578,9 +578,9 @@
       "type": "Media RDF",
       "endpoint": "https://rss.dw.com/rdf/rss-de-all",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 16
+      "itemsCaptured": 19
     },
     {
       "id": "src-de-tagesschau",
@@ -593,9 +593,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-kr-yonhap",
@@ -608,9 +608,9 @@
       "type": "Media RSS",
       "endpoint": "https://en.yna.co.kr/RSS/news.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 21
+      "itemsCaptured": 24
     },
     {
       "id": "src-sg-cna",
@@ -623,9 +623,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 18
+      "itemsCaptured": 21
     },
     {
       "id": "src-sg-straitstimes",
@@ -638,7 +638,7 @@
       "type": "Media RSS",
       "endpoint": "https://www.straitstimes.com/news/singapore/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 15
     },
@@ -653,9 +653,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.abc.net.au/news/feed/2942460/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-au-smh",
@@ -668,9 +668,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.smh.com.au/rss/feed.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-global-aljazeera",
@@ -683,9 +683,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.aljazeera.com/xml/rss/all.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-global-france24",
@@ -698,9 +698,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.france24.com/en/rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-tw-ithome",
@@ -713,9 +713,9 @@
       "type": "Media RSS",
       "endpoint": "https://www.ithome.com.tw/rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 16
+      "itemsCaptured": 19
     },
     {
       "id": "src-tw-technews",
@@ -728,9 +728,9 @@
       "type": "Media RSS",
       "endpoint": "https://technews.tw/feed/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-us-wired",
@@ -743,7 +743,7 @@
       "type": "Media RSS",
       "endpoint": "https://www.wired.com/feed/rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 15
     },
@@ -758,7 +758,7 @@
       "type": "Media RSS",
       "endpoint": "https://feeds.npr.org/1019/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 8
     },
@@ -773,7 +773,7 @@
       "type": "Media RSS",
       "endpoint": "https://www.technologyreview.com/feed/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 10
     },
@@ -788,7 +788,7 @@
       "type": "Creator RSS",
       "endpoint": "https://overreacted.io/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     },
@@ -803,9 +803,9 @@
       "type": "Media RSS",
       "endpoint": "https://feeds.bbci.co.uk/news/technology/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 11
+      "itemsCaptured": 13
     },
     {
       "id": "src-gb-bbc-business",
@@ -818,9 +818,9 @@
       "type": "Media RSS",
       "endpoint": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 16
+      "itemsCaptured": 19
     },
     {
       "id": "src-gb-nature",
@@ -833,9 +833,9 @@
       "type": "Science RSS",
       "endpoint": "https://www.nature.com/nature.rss",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 10
+      "itemsCaptured": 12
     },
     {
       "id": "src-global-simonw",
@@ -848,7 +848,7 @@
       "type": "Creator Atom",
       "endpoint": "https://simonwillison.net/atom/everything/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 10
     },
@@ -863,9 +863,9 @@
       "type": "Community RSS",
       "endpoint": "https://dev.to/feed",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
-      "itemsCaptured": 17
+      "itemsCaptured": 20
     },
     {
       "id": "src-global-huggingface",
@@ -878,7 +878,7 @@
       "type": "AI Research RSS",
       "endpoint": "https://huggingface.co/blog/feed.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 9
     },
@@ -893,7 +893,7 @@
       "type": "Academic RSS",
       "endpoint": "https://rss.arxiv.org/rss/cs.AI",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 11
     },
@@ -908,7 +908,7 @@
       "type": "Engineering RSS",
       "endpoint": "https://www.cncf.io/blog/feed/",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 4
     },
@@ -923,7 +923,7 @@
       "type": "Engineering Atom",
       "endpoint": "https://blog.rust-lang.org/feed.xml",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     },
@@ -938,12 +938,23 @@
       "type": "Creator Atom",
       "endpoint": "https://martinfowler.com/feed.atom",
       "enabled": true,
-      "lastCheckedAt": "2026-11-26T16:38:06Z",
+      "lastCheckedAt": "2026-11-27T01:35:16Z",
       "lastStatus": "ok",
       "itemsCaptured": 3
     }
   ],
   "syncLogs": [
+    {
+      "id": "log-py-1795743414",
+      "timestamp": "2026-11-27T01:35:16Z",
+      "trigger": "GitHub Actions Python Crawler",
+      "status": "success",
+      "sourcesChecked": 57,
+      "newEntries": 80,
+      "durationSeconds": 0.0,
+      "commitSha": "cd0214b",
+      "message": "Python 排班爬蟲檢查 57 個來源（57 成功），新增 80 筆索引（總計 856 筆）。"
+    },
     {
       "id": "log-py-1795711189",
       "timestamp": "2026-11-26T16:38:06Z",
