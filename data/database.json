@@ -1,8 +1,3357 @@
 {
   "schemaVersion": "2.0.0",
-  "lastUpdated": "2026-11-27T01:35:16Z",
-  "totalRecords": 856,
+  "lastUpdated": "2026-11-27T16:23:30Z",
+  "totalRecords": 949,
   "entries": [
+    {
+      "id": "cbl-00a20d36300b",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "originalTitle": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "category": "API 變動",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Hugging Face Official AI Blog",
+      "sourceId": "src-global-huggingface",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+      "bannerImage": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:25:14Z",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "API 變動"
+      ],
+      "aiSummary": "Hugging Face Official AI Blog 公開資料流即時擷取報導：Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "keyChanges": [
+        "來源：Hugging Face Official AI Blog（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5aa89b82a334",
+      "title": "Life-saving cancer drug pumped out by a plant",
+      "originalTitle": "Life-saving cancer drug pumped out by a plant",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Nature Journal 國際科學期刊",
+      "sourceId": "src-gb-nature",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=64",
+      "bannerImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03801-w/d41586-026-03801-w_54003068.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:25:13Z",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Nature Journal 國際科學期刊 公開資料流即時擷取報導：Life-saving cancer drug pumped out by a plant",
+      "keyChanges": [
+        "來源：Nature Journal 國際科學期刊（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b8a64e603ad4",
+      "title": "Thinking on Constrained Deployments: Gemma E4B on 4GB 1650",
+      "originalTitle": "Thinking on Constrained Deployments: Gemma E4B on 4GB 1650",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e4b-thinking-1650ti%2Fdevto-cover.6acaec69.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:25:13Z",
+      "url": "https://dev.to/gde/thinking-on-constrained-deployments-gemma-e4b-on-4gb-1650-2cc6",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Gemma 4 E4B fits a 4 GB laptop card and answers like an 8 GB desktop card in 15 of 16 settings, at 1.59 times the time. The drafter nearly doubles its speed; thinking doubles its time. The same 16 settings that ran on an 8 GB RTX 3050 ran on a GTX 1650 Ti Max-Q, through the same llama.cpp build and the same three files",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c48ab3b72e5f",
+      "title": "How to Connect n8n AI Agents to B2B Lead Scrapers via MCP & Zero-Key APIs (16 Free Workflows)",
+      "originalTitle": "How to Connect n8n AI Agents to B2B Lead Scrapers via MCP & Zero-Key APIs (16 Free Workflows)",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flt4bzmowimhq7vbymmxm.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:25:13Z",
+      "url": "https://dev.to/truonggiang0111/how-to-connect-n8n-ai-agents-to-b2b-lead-scrapers-via-mcp-zero-key-apis-16-free-workflows-145b",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "If you wire @n8n/n8n-nodes-langchain.agent to market data, B2B lead sources, or Google News RAG feeds, here are 3 ways to connect without local Chromium containers or brittle regexes: Streamable HTTP MCP ( mcp.apify.com ) using Apify's $5/mo built-in free tier. Zero-Key STDIO MCP ( b2b-market-intel-mcp ) via npx callin",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-14f2d3ba1256",
+      "title": "What vegapunk-agents v0.3 fixed from my last post, and the one sentence I'd missed",
+      "originalTitle": "What vegapunk-agents v0.3 fixed from my last post, and the one sentence I'd missed",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fczttamji9x0p5d60vub4.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:25:13Z",
+      "url": "https://dev.to/ckomiya/what-vegapunk-agents-v03-fixed-from-my-last-post-and-the-one-sentence-id-missed-2gjh",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Leer en español: https://dev.to/ckomiya/lo-que-la-v03-de-vegapunk-agents-corrigio-de-mi-ultimo-post-y-la-frase-que-se-me-escapo-2he4 vegapunk-agents is an open-source multi-agent architecture pattern (and conceptual framework): six specialized agents that never talk to each other, but read and write a shared memory cal",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-173cc90d8cda",
+      "title": "Brain area’s mysterious role in speech decoded at last",
+      "originalTitle": "Brain area’s mysterious role in speech decoded at last",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Nature Journal 國際科學期刊",
+      "sourceId": "src-gb-nature",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=64",
+      "bannerImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03800-x/d41586-026-03800-x_54003038.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:25:12Z",
+      "url": "https://www.nature.com/articles/d41586-026-03800-x",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Nature Journal 國際科學期刊 公開資料流即時擷取報導：Brain area’s mysterious role in speech decoded at last",
+      "keyChanges": [
+        "來源：Nature Journal 國際科學期刊（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9981360fbdfa",
+      "title": "The haunting loveliness of boglands: Books in brief",
+      "originalTitle": "The haunting loveliness of boglands: Books in brief",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Nature Journal 國際科學期刊",
+      "sourceId": "src-gb-nature",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=64",
+      "bannerImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03885-4/d41586-026-03885-4_53944960.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:25:10Z",
+      "url": "https://www.nature.com/articles/d41586-026-03885-4",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Nature Journal 國際科學期刊 公開資料流即時擷取報導：The haunting loveliness of boglands: Books in brief",
+      "keyChanges": [
+        "來源：Nature Journal 國際科學期刊（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bc0b787e51a4",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "originalTitle": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Business 財經商業新聞",
+      "sourceId": "src-gb-bbc-business",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:25:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+      "keyChanges": [
+        "來源：BBC Business 財經商業新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c076ba7c8cb9",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "originalTitle": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "MIT Technology Review 麻省理工科技評論",
+      "sourceId": "src-us-mit-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64",
+      "bannerImage": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:25:07Z",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innova",
+      "keyChanges": [
+        "來源：MIT Technology Review 麻省理工科技評論（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-25ea3eeab8b5",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "originalTitle": "Our 2027 Innovators Under 35 competition is now open",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "MIT Technology Review 麻省理工科技評論",
+      "sourceId": "src-us-mit-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64",
+      "bannerImage": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:25:07Z",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are engineerin",
+      "keyChanges": [
+        "來源：MIT Technology Review 麻省理工科技評論（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-48bce39a81b6",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "originalTitle": "How cutting-edge prosthetics can help probe the human mind",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "MIT Technology Review 麻省理工科技評論",
+      "sourceId": "src-us-mit-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64",
+      "bannerImage": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Avi-and-Leanne.jpeg?resize=1200,600",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:25:07Z",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
+      "keyChanges": [
+        "來源：MIT Technology Review 麻省理工科技評論（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-282e84622524",
+      "title": "Screen free tweens try their hand at Dungeons & Dragons",
+      "originalTitle": "Screen free tweens try their hand at Dungeons & Dragons",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR Technology 科技專題",
+      "sourceId": "src-us-npr-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:59Z",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+      "keyChanges": [
+        "來源：NPR Technology 科技專題（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9ddbeff08b68",
+      "title": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
+      "originalTitle": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=finance.technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/01/02150732/artificial-intelligence-9899127_1280.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:55Z",
+      "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "主計總處今天公布最新經濟預測，儘管人工智慧（AI）產業發展存在變數，市場依舊供不應求，估今年商品出口突破 9, […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-350fc7dbbae4",
+      "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+      "originalTitle": "Walking Pad Deals to Shop This Black Friday (2026)",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6af51ba69181a13e281c8875/master/pass/The-Best-Early-Black-Friday-Walking-Pad-Deals-Are-Already-Here.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:55Z",
+      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-58932e5cfbe2",
+      "title": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026",
+      "originalTitle": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:55Z",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-dc79ae09db67",
+      "title": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+      "originalTitle": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b05be76befd568d19cd5dfe/master/pass/Amazon-Black-Friday-Deals-Are-Now-Live-Ahead-of-Thanksgiving.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:55Z",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d4716f4bf6ee",
+      "title": "小行星如何化身「迷你月亮」？解密 2026 QQ8 與地球短暫交會的引力之舞",
+      "originalTitle": "小行星如何化身「迷你月亮」？解密 2026 QQ8 與地球短暫交會的引力之舞",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2025/10/16113947/asteroid-earth.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:54Z",
+      "url": "https://technews.tw/2026/11/28/earth-temporarily-captures-a-mini-moon-2026-qq8/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "國際天文聯合會小行星中心（MPC）於 10 月 29 日公布，軌道計算顯示，一顆編號為 2026 QQ8 的小 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bc799dcafd24",
+      "title": "改寫免疫療法認知，研究：穿孔素能單獨引發癌細胞「鐵死症」",
+      "originalTitle": "改寫免疫療法認知，研究：穿孔素能單獨引發癌細胞「鐵死症」",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/11/11104338/Immune-system-protein-is-a-cancer-killer-on-its-own-new-study-shows.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:53Z",
+      "url": "https://technews.tw/2026/11/28/new-discovery-perforin-anti-cancer-mechanism/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "免疫系統對抗癌症的機制，出現顛覆性新發現。由密西根大學健康羅格爾癌症中心（University of Mich […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-481105ef5d06",
+      "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+      "originalTitle": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/20261120_centros_de_datos_1.png",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:52Z",
+      "url": "https://www.ithome.com.tw/news/180859",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "西班牙政府近期通過《Real Decreto 1032/2026》，以規範資料中心的能源永續、環境要求、韌性與數位主權條件，並由西班牙生態轉型與人口挑戰部（MITECO）公布相關內容。新的法規要求大型資料中心必須符合新的能源與環境標準，才能取得電網接入資格，適用對象包括電力容量超過10MW的資料中心。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-498a4a2448af",
+      "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
+      "originalTitle": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/zhu_tu_ying_guo_bsiguo_ji_biao_zhun_xie_hui_jie_xi_iso_27090yu_iso_42119xin_jin_zhan_aizhi_li_cong_zhi_du_zou_xiang_an_quan_yan_zheng_she_ying_luo_zheng_han_.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:51Z",
+      "url": "https://www.ithome.com.tw/news/180834",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "如何落實AI治理、因應新興資安風險，已成為企業關注的重要課題。BSI英國標準協會近日舉辦「2026 BSI國際標準管理年會」，會中不僅強調AI治理須由跨部門共同負責，也特別提及幾項值得企業關注的AI安全標準與治理驗證進展，包括今年10月發布的ISO/IEC 27090、持續發展中的ISO/IEC 42119系列AI測試標準，以及BSI推出的AI可信賴治理框架（AIFF）與AI信賴標誌（AI MoT），並分享AI代理團隊的實際管理經驗。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-26b840b36b20",
+      "title": "日本摩斯漢堡不到一個月揭露5起資安事件，皆涉及第三方服務",
+      "originalTitle": "日本摩斯漢堡不到一個月揭露5起資安事件，皆涉及第三方服務",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/ri_ben_mo_si_han_bao_bu_dao_yi_ge_yue_jie_lian_shou_dao_5qi_di_san_fang_zi_an_shi_jian_bo_ji_.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:50Z",
+      "url": "https://www.ithome.com.tw/news/180862",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "近來第三方服務商遭駭事件頻傳，除了單一服務商遭駭波及多家企業的情況，也有企業在短時間內接連受到不同第三方服務商資安事件影響。日本知名連鎖速食業者摩斯漢堡（Mos Burger）便是相當值得關注的案例，經營該品牌的日本摩斯食品服務公司（Mos Food Services），自10月23日至11月20日，在不到一個月的時間內接連發布5起涉及第三方服務或委外維運系統的資安事件公告。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-66a3f0ccf143",
+      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "originalTitle": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8TN37B__v1__HighRes__SerbiaPoliticsElection-1795790157.jpg?resize=1920%2C1440",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:48Z",
+      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bb369827fce9",
+      "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "originalTitle": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-05-08T053717Z_356236024_RC2H8EAI2Q5U_RTRMADP_3_CANADA-COURT-1795792155.jpg?resize=1920%2C1440",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:48Z",
+      "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-75a53e37f346",
+      "title": "Student movement in France: \"The situation has varied greatly from one school to another\"",
+      "originalTitle": "Student movement in France: \"The situation has varied greatly from one school to another\"",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/9a7c6116-ea75-11f1-960b-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-141307-141959-CS.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:48Z",
+      "url": "https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Thousands of high school and university students gathered at Place de la Bastille in Paris on Thursday. A protest movement that disrupted schools earlier this term prompted the government to announce 20,000 additional university places and reforms to the admissions process. But demonstrators say these measures do not g",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4a593d2cede9",
+      "title": "Bulgarian fans injured after clashes between supporters at Marseille-Levski game in Europa League",
+      "originalTitle": "Bulgarian fans injured after clashes between supporters at Marseille-Levski game in Europa League",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/a5b71430-ea76-11f1-9ddd-f9cf020caef6/w:1024/p:16x9/EN-20261127-150635-150809-CS.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:48Z",
+      "url": "https://www.france24.com/en/video/20261127-bulgarian-fans-injured-after-clashes-between-supporters-at-marseille-levski-game-in-europa-league",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "French and Bulgarian authorities condemned the violence that left at least 11 Bulgarian soccer fans injured during clashes between Marseille and Levski Sofia supporters before their Europa League match on Thursday evening, and Marseille prosecutors opened two investigations.",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-80069cb13618",
+      "title": "Black Friday: How the global shopping phenomenon is evolving amid the cost-of-living crisis",
+      "originalTitle": "Black Friday: How the global shopping phenomenon is evolving amid the cost-of-living crisis",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/57189f3a-ea74-11f1-8b39-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-131851-132536-CS.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:48Z",
+      "url": "https://www.france24.com/en/video/20261127-black-friday-how-the-global-shopping-phenomenon-is-evolving-amid-the-cost-of-living-crisis",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Online spending on Black Friday is expected to rise by 9.2% year-on-year to $12.9 billion, driven by increased use of Buy Now, Pay Later options and steep discounts on televisions, toys and furniture, according to Adobe's initial forecast. But with promotions now running throughout the year, are consumers experiencing ",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-34ab63f301e7",
+      "title": "Boy, 13, killed after being struck by ute in south-west Sydney",
+      "originalTitle": "Boy, 13, killed after being struck by ute in south-west Sydney",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_1.0624%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/a02dcfec42dad203dd231eb7206597365022cdb0bc7ef3c892b34cf833268dcf",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:47Z",
+      "url": "https://www.smh.com.au/national/nsw/boy-13-killed-after-being-struck-by-ute-in-south-west-sydney-20261127-p61hzz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Police later charged the 59-year-old driver with dangerous driving occasioning death.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bbf3333c0d27",
+      "title": "A dose of MSG: Masan Gamjatang brings unapologetic Korean comfort to Northbridge",
+      "originalTitle": "A dose of MSG: Masan Gamjatang brings unapologetic Korean comfort to Northbridge",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/00daeceb48bca801385f0c742cbad55e70deabf1808b0eb262b0954e05a3e149",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:47Z",
+      "url": "https://www.smh.com.au/goodfood/perth-eating-out/a-dose-of-msg-masan-gamjatang-brings-unapologetic-korean-comfort-to-northbridge-20261128-p61hz0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Come for the slow-cooked pork bone soup and endless banchan; stay for warm service and God-tier pancakes.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f1d9dc913344",
+      "title": "How words from Cathy Freeman inspired North Melbourne’s three-peat",
+      "originalTitle": "How words from Cathy Freeman inspired North Melbourne’s three-peat",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_0.33428030303030304%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7be942180c8a048e6d0c08066e28611fe03193c1",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:47Z",
+      "url": "https://www.smh.com.au/sport/afl/how-words-from-cathy-freeman-inspired-north-melbourne-s-three-peat-20261128-p61i0i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Coach Darren Crocker and skipper Jasmine Garner revealed it was inspiring words from decorated Indigenous athlete Cathy Freeman that motivated their historic three-peat.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0364f994945e",
+      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "originalTitle": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795795296.jpg?resize=1920%2C1080&quality=80",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e2fae212fc7b",
+      "title": "Roos create AFLW history with three-peat after downing Dees in epic",
+      "originalTitle": "Roos create AFLW history with three-peat after downing Dees in epic",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/f63cff5e6a9f440644bc3e0fce5a05a6?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=307&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:46Z",
+      "url": "https://www.abc.net.au/news/2026-11-27/aflw-grand-final-live-north-melbourne-kangaroos-melbourne-demons/107425444",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "North Melbourne defeats Melbourne by 26 points in the grand final to claim a historic third consecutive AFLW premiership.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8c6056336824",
+      "title": "Matildas legend enters arena of greatness in milestone match",
+      "originalTitle": "Matildas legend enters arena of greatness in milestone match",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/18f66e3e29bdab614665ab541c8f434b?impolicy=wcms_watermark_news&cropH=2384&cropW=4238&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:46Z",
+      "url": "https://www.abc.net.au/news/2026-11-27/steph-catley-matildas-150-caps/107434880",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Matildas vice-captain Steph Catley will join an elite group of players in the 150-cap club, as the humble champion solidifies her place among the country's all-time greats.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0d73d2375dd4",
+      "title": "Australia 'have to be better,' humbled by England at rain-soaked Gabba",
+      "originalTitle": "Australia 'have to be better,' humbled by England at rain-soaked Gabba",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/849d767ee41644b481272eb7ad6e8255?impolicy=wcms_watermark_news&cropH=2027&cropW=3604&xPos=0&yPos=77&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:45Z",
+      "url": "https://www.abc.net.au/news/2026-11-27/australia-vs-england-3rd-t20i-at-the-gabba/107435858",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "England beats Australia by seven wickets at the Gabba, bowling the home team out for their lowest-ever T20I total, 108.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8555486bc4ff",
+      "title": "Middle and smaller powers have ‘limited leverage’ against Trump’s tariffs: Expert",
+      "originalTitle": "Middle and smaller powers have ‘limited leverage’ against Trump’s tariffs: Expert",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/d97baf1abbf278a94554cee21d328c67b619a550c51b0afec038179af0990a4c?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:44Z",
+      "url": "https://www.straitstimes.com/singapore/middle-and-smaller-powers-have-limited-leverage-against-trumps-tariffs-expert",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "A key discussion theme was the impact of US policies on Asia, including export controls.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e17ecaa30849",
+      "title": "Greater economic integration, peace will be success markers for S’pore as ASEAN chair: Vivian",
+      "originalTitle": "Greater economic integration, peace will be success markers for S’pore as ASEAN chair: Vivian",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/791f61f7ce064a6d860d9bdfa36103c5a4d258c29d02ac7ea7e080218f7a80c7?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:43Z",
+      "url": "https://www.straitstimes.com/singapore/greater-economic-integration-peace-will-be-success-markers-for-spore-as-asean-chair-vivian",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "Singapore wants to maintain ASEAN as an inclusive engagement zone, but not allow it to become an arena of proxy wars.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6f58607daf00",
+      "title": "Platform with new mentorship opportunities launched as non-profit aims to raise Muslim median income",
+      "originalTitle": "Platform with new mentorship opportunities launched as non-profit aims to raise Muslim median income",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/76e1f1ddd7749de214b27476847dc077627b1cb2663695d6995e8b532166e016?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:43Z",
+      "url": "https://www.straitstimes.com/singapore/politics/platform-with-new-mentorship-opportunities-launched-as-non-profit-aims-to-raise-muslim-median-income",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "The platform currently lists over 200 mentors in 63 professional fields.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4aaec42f0650",
+      "title": "(2nd LD) DP lawmaker handed 2-yr suspension of party membership over remarks on Lee",
+      "originalTitle": "(2nd LD) DP lawmaker handed 2-yr suspension of party membership over remarks on Lee",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/yna/YH/2026/11/27/PYH2026112703160001300_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20261127004552315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 27 (Yonhap) -- The ruling Democratic Party (DP)'s ethics committee o...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2dbe4f13b9f7",
+      "title": "Kakao founder's acquittal finalized as prosecutors decide not to appeal",
+      "originalTitle": "Kakao founder's acquittal finalized as prosecutors decide not to appeal",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112003910001300_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20261127008800315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 27 (Yonhap) -- Prosecutors have decided not to appeal an appellate c...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e47c6c2159fc",
+      "title": "(LEAD) DP lawmaker handed 'severe' disciplinary action over remarks on Lee",
+      "originalTitle": "(LEAD) DP lawmaker handed 'severe' disciplinary action over remarks on Lee",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/yna/YH/2026/11/27/PYH2026112703160001300_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20261127004551315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 27 (Yonhap) -- The ruling Democratic Party (DP)'s ethics committee o...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6e6cb5d857b5",
+      "title": "Spurs' Savio to miss Christmas period with hamstring injury, says De Zerbi",
+      "originalTitle": "Spurs' Savio to miss Christmas period with hamstring injury, says De Zerbi",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--V8bc01k1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-27T161307Z_1_LYNXNPEMAQ1FL_RTROPTP_3_SOCCER-ENGLAND-TOT-IPS.JPG?itok=gzkzno-8",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://www.channelnewsasia.com/sport/spurs-savio-miss-christmas-period-hamstring-injury-says-de-zerbi-6588311",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Spurs' Savio to miss Christmas period with hamstring injury, says De Zerbi",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6b92f0be5761",
+      "title": "Arteta plays down significance of Arsenal's clash against City",
+      "originalTitle": "Arteta plays down significance of Arsenal's clash against City",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--cTeK8esT--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-27T160420Z_1_LYNXNPEMAQ1F3_RTROPTP_3_SOCCER-CHAMPIONS-ARS-BVB.JPG?itok=SXQSagyW",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://www.channelnewsasia.com/sport/arteta-plays-down-significance-arsenals-clash-against-city-6588301",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Arteta plays down significance of Arsenal's clash against City",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2834219d01bd",
+      "title": "Arsenal sack women's coach Slegers after poor start to WSL season",
+      "originalTitle": "Arsenal sack women's coach Slegers after poor start to WSL season",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--KqhT5Ceu--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-27T155448Z_1_LYNXNPEMAQ1EP_RTROPTP_3_SOCCER-ENGLAND-ARS-WOMEN.JPG?itok=nNlIWaEy",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:42Z",
+      "url": "https://www.channelnewsasia.com/sport/arsenal-sack-womens-coach-slegers-after-poor-start-wsl-season-6588286",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Arsenal sack women's coach Slegers after poor start to WSL season",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0bd1aab3df95",
+      "title": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+      "originalTitle": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/bf7faff1-4340-43e9-a3ff-22fff7cf333e/AAABoh0unGo/AAABnSSvrFg/16x9-big/tanker-ibiza-gekentert-100.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:40Z",
+      "url": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Der Öltanker \"Med Emre\" treibt kieloben im Mittelmeer vor Ibiza. Eine größere Gefahr für die Umwelt geht von ihm nach ersten Erkenntnissen aber wohl nicht aus. Inzwischen wird die Abschleppung des Schiffs geplant.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a0e8308949e0",
+      "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+      "originalTitle": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/228e1c25-eaa7-45c8-addc-528ed0b723cb/AAABohzpYfU/AAABnSSvrFg/16x9-big/weidel-328.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:40Z",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-60f3327622bf",
+      "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+      "originalTitle": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/237b4c3c-396f-43ab-8d9a-8204407fe454/AAABoh2qjHM/AAABnSSvrFg/16x9-big/zucker-getraenke-100.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:39Z",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8acdaf186f32",
+      "title": "Die internationalen Drohnen-Allianzen der Ukraine",
+      "originalTitle": "Die internationalen Drohnen-Allianzen der Ukraine",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "https://static.dw.com/image/80030729_6.jpg",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:37Z",
+      "url": "https://www.dw.com/de/die-internationalen-drohnen-allianzen-der-ukraine/a-80066338?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Ukrainisches Know-how trifft auf Europas finanzielle und industrielle Stärke: Deutschland und andere Partner bauen ihre Drohnenproduktion mit der Ukraine aus. Das verändert auch Europas Rüstungsindustrie.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8b34a7527c9a",
+      "title": "Woher kommen Afrikas Kleinwaffen – und warum lassen sie sich so schwer kontrollieren?",
+      "originalTitle": "Woher kommen Afrikas Kleinwaffen – und warum lassen sie sich so schwer kontrollieren?",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "https://static.dw.com/image/68111874_6.jpg",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:37Z",
+      "url": "https://www.dw.com/de/woher-kommen-afrikas-kleinwaffen-und-warum-lassen-sie-sich-so-schwer-kontrollieren/a-80064257?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Internationale Lieferungen, alte Kriegsbestände und gestohlene Waffenarsenale: Kleinwaffen befeuern Konflikte in Afrika. Regierungen versuchen, ihre Verbreitung einzudämmen – doch die Kontrolle bleibt schwierig.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f7b0361f75ba",
+      "title": "Save the Children: Kampf gegen Kinderehen verstärken",
+      "originalTitle": "Save the Children: Kampf gegen Kinderehen verstärken",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:37Z",
+      "url": "https://www.dw.com/de/save-the-children-kampf-gegen-kinderehen-verstärken/a-80075792?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Am UN-Welttag gegen Früh- und Zwangsverheiratung schlägt die Kinderschutzorganisation Alarm: Während sich in einigen Ländern positive Entwicklungen zeigten, trete man insgesamt auf der Stelle.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-61f5fe5767ab",
+      "title": "死亡ひき逃げ容疑で51歳男を逮捕「人をひいたとは…」 大阪・堺",
+      "originalTitle": "死亡ひき逃げ容疑で51歳男を逮捕「人をひいたとは…」 大阪・堺",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261127001404_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-27T16:24:36Z",
+      "url": "http://www.asahi.com/articles/ASVCW0FMLVCWPTIL001M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：死亡ひき逃げ容疑で51歳男を逮捕「人をひいたとは…」 大阪・堺",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-38a61efd2444",
+      "title": "宮城の山中で2人の遺体発見 横浜の女子高校生誘拐容疑で男を捜査中",
+      "originalTitle": "宮城の山中で2人の遺体発見 横浜の女子高校生誘拐容疑で男を捜査中",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261127005425_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-27T16:24:35Z",
+      "url": "http://www.asahi.com/articles/ASVCW4Q01VCWULOB00KM.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：宮城の山中で2人の遺体発見 横浜の女子高校生誘拐容疑で男を捜査中",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9fd3f745d5d0",
+      "title": "千葉・八街の住宅で強盗被害 2400万円など奪ったか 3人組逃走",
+      "originalTitle": "千葉・八街の住宅で強盗被害 2400万円など奪ったか 3人組逃走",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261127005164_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-27T16:24:35Z",
+      "url": "http://www.asahi.com/articles/ASVCW4CDKVCWUDCB010M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：千葉・八街の住宅で強盗被害 2400万円など奪ったか 3人組逃走",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-94e45bf08aba",
+      "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+      "originalTitle": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-taiwan-election-bpwl/27int-taiwan-election-bpwl-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b4b42b8cef47",
+      "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+      "originalTitle": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/27/multimedia/27russia-memory-01-pkwg/27russia-memory-01-pkwg-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "The Kremlin’s rehabilitation of Stalin, who presided over the brutal labor camps of the Gulag, has accelerated during Russia’s war in Ukraine.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5e85047964cd",
+      "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+      "originalTitle": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-spain-abascal-promo-zlgq/27int-spain-abascal-promo-zlgq-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "If the polls are right, Santiago Abascal’s Vox party could become the first far-right group to join a Spanish government since the days of Franco.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-862027cdd906",
+      "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+      "originalTitle": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "The Guardian 英國衛報國際版",
+      "sourceId": "src-gb-guardian",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=64",
+      "bannerImage": "https://i.guim.co.uk/img/media/420a704a7b9337bcc84564de8c0db0836d052aac/433_0_5275_4223/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=558556ddc90089bd8666c299074f9675",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the ",
+      "keyChanges": [
+        "來源：The Guardian 英國衛報國際版（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-04e884c6489a",
+      "title": "Kenyan cult leader in jail for 191 murders convicted over another 123 deaths",
+      "originalTitle": "Kenyan cult leader in jail for 191 murders convicted over another 123 deaths",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261127144057",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "A Kenyan cult leader has been convicted of manslaughter over the deaths of 123 of his followers, having already been found guilty of murdering 191 others.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0360c3373e13",
+      "title": "Amazon staff to strike and rally on busiest weekend of the year",
+      "originalTitle": "Amazon staff to strike and rally on busiest weekend of the year",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:24:34Z",
+      "url": "https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Amazon employees around the world are set to stage protests on Black Friday amid claims of unfair pay and oppressive working conditions.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-376fdcaf8f81",
+      "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "originalTitle": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:33Z",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6bd3303e0ae3",
+      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+      "originalTitle": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:29Z",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d457679a85f8",
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "originalTitle": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:24:25Z",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3d5158c2d62b",
+      "title": "美重建蘇比克灣 中國智庫揭應對南海、台海衝突「非正式軍事據點」",
+      "originalTitle": "美重建蘇比克灣 中國智庫揭應對南海、台海衝突「非正式軍事據點」",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655875_1_1.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:21Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5655875",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "南華早報引述中國智庫「中國南海研究院」（NISCSS）25日發表的研究報告，判斷美國近期以商業、民間活動名義，在菲律賓北部戰略港口「蘇比克灣」（Subic Bay）的一系列建設...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-15c5c3eebb8e",
+      "title": "烏軍襲俄範圍、頻率雙增！西伯利亞到地中海都不放過",
+      "originalTitle": "烏軍襲俄範圍、頻率雙增！西伯利亞到地中海都不放過",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655951_1_1.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:19Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5655951",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "烏俄終戰斡旋陷入僵局之際，烏克蘭對俄羅斯的打擊行動，不僅頻率大增，範圍也擴大至遠離烏俄戰場的地中海。根據衝突監測機構數據，烏軍今年以來對500公里以外的俄國目標，發動將近500...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-dfab9fc976f7",
+      "title": "烏克蘭可摧毀7成俄羅斯高速無人機 愛國者飛彈供應仍吃緊",
+      "originalTitle": "烏克蘭可摧毀7成俄羅斯高速無人機 愛國者飛彈供應仍吃緊",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/5655876_1_1.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:24:19Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5655876",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "烏克蘭總統澤倫斯基26日接受英國廣播公司（BBC）專訪時說，烏軍如今已有能力摧毀約7成的俄羅斯高速無人機，但抵禦俄國彈道飛彈的關鍵武器，愛國者防禦系統仍極度短缺，對於美國優先支...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8597d0802d9f",
+      "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+      "originalTitle": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Lobsters & Reddit 開發者熱議",
+      "sourceId": "src-global-community",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=roboticoverlords.org&sz=64",
+      "bannerImage": "",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:17Z",
+      "url": "https://roboticoverlords.org/tinyhat",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a >= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example programs for getting into retro game development. It also uses a modern stack of libraries, with dwl / Wayland, SDL3 and GTK4",
+      "keyChanges": [
+        "來源：Lobsters & Reddit 開發者熱議（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5c72e3c6d97e",
+      "title": "What are you doing this weekend?",
+      "originalTitle": "What are you doing this weekend?",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Lobsters & Reddit 開發者熱議",
+      "sourceId": "src-global-community",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=lobste.rs&sz=64",
+      "bannerImage": "https://lobste.rs/touch-icon-144.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-27T16:24:17Z",
+      "url": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+      "keyChanges": [
+        "來源：Lobsters & Reddit 開發者熱議（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-da2951e6b860",
+      "title": "ASEAN unity, deeper integration key measures of successful 2027 chairmanship: Vivian Balakrishnan - CNA",
+      "originalTitle": "ASEAN unity, deeper integration key measures of successful 2027 chairmanship: Vivian Balakrishnan - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVV3RWpKVjZjRXo1ZVhzLXlfb2swRkhlR2Ywb0w5elRpank3UTYxTW5hUDdUZmlKYkFXSmNaeHBlTXRsQ0hXQVlSWmRNbE84SHhlV0dvTF9rY3c0R2I1anQ3SHV6R2hHYkxjMUdNOEZLRVN6bkJMaUtkSFhjc1NZRmR4MHFyNjh6VDg4NDZkZllVa2tFa0k4cA?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "ASEAN unity, deeper integration key measures of successful 2027 chairmanship: Vivian Balakrishnan CNA What ASEAN can and cannot do for Singapore The Straits Times Dr Vivian Balakrishnan: Singapore must safeguard ASEAN unity and advance economic integration as next year's chair 联合早报 Greater economic integration, peace w",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e3f42a3a0d4c",
+      "title": "New road traffic laws, including ban on holding mobile phones while driving, to take effect on Dec 1 - CNA",
+      "originalTitle": "New road traffic laws, including ban on holding mobile phones while driving, to take effect on Dec 1 - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmVJMHFiSEZPRjdlSUJkRXBOVkJydzJpRzNDR0pUN2dweWlZQ3dfMG9jUWN3UTdEeUtnd3YyU0g5ZUZCY2xDeDhKQkJ4UTgxbEtkSzBReElDSG1sa2JhWGJGU1h4dHdkdHNIeWo0bDZSbUY0dDRrWHFHTGVPMmRhTEZ5UkpBVV8xNGxNOHpTNnk2bnNGMDFyOW1pMFM5blVvMjFSWHEzWQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "New road traffic laws, including ban on holding mobile phones while driving, to take effect on Dec 1 CNA Tougher road traffic laws on phone use, dangerous driving take effect from Dec 1, Singapore News AsiaOne.com New road traffic laws take effect on 1 December: Up to 15 years’ jail for deliberately harming others with",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d8c24cf51637",
+      "title": "Cremation, burial to cost more from 2027; ash-scattering will be cheaper - The Straits Times",
+      "originalTitle": "Cremation, burial to cost more from 2027; ash-scattering will be cheaper - The Straits Times",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE8tdVJFUmNyNzQ3Rl93dnNHZ3pEMmwyRzNjdE1zZ1FOVUl2Tm0tT25fNHg3VDFPS0FzRWVmaW9FTGpKU19GZGVQaUx2cmh1WU5MZldadzBoS3p0MGxfMUJqSUp1bzVQUkg2elY3OWhTMVdrUk9peTg1bnItb3Y0MWRZSmU0Tk5XbGJyVFFrTnJaTnRnYV9zb0pEZTU3dERwTFFEVWdzTjJzdGpQdW8xQ1ZwRl9iZU9aZndj?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "Cremation, burial to cost more from 2027; ash-scattering will be cheaper The Straits Times Cremation, burial and niche fees to increase from Jan 1, 2027; first hike in over 25 years CNA Government columbarium fees to rise, ash-scattering fees to fall; cost not the main consideration, say operators and public 联合早报 Daily",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e1cc4bcfdf41",
+      "title": "Victorian election 2026: Push to draft Albanese’s top adviser for review - The Australian",
+      "originalTitle": "Victorian election 2026: Push to draft Albanese’s top adviser for review - The Australian",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Australian",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theaustralian.com.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd3BTM1RBellkQzVSSjg1Vk4tNVFneUY1Y1dvNm9aeDhfSWxITzNSLUhsa2lkdG44QlZzV0U3LUpKc1VvOGI1bUVPU1UwMVY5QUhpejNxcVlRMlJjNUQ2ZkJ5Q3hYaEdPX0IyMU04LTd4cV9oWGpXVFJMRnM3TWdQY19BWmNTWnVZc3VzVWxxZ1hBRVlPR2VVT0FEcllrZUdYX2xUYThQc2lScFlPa01qMEw4d2kwM3ZEY3oyUFAwaDc3UlNHdzVSWEdSRlFyeEpwUXZ4STk5cTc3OWhVMW95RzlKV1NJZmY0Wk4tdXV2ekdlNGc2Z2RpN3dBS3hRZ3FGTFl5MU5hRQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Victorian election 2026: Push to draft Albanese’s top adviser for review The Australian Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation The Guardian Victoria's election day arrives, as state appears poised to dump Labor ABC News & Headlines – Australian Broadcasting Corpo",
+      "keyChanges": [
+        "來源：The Australian（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0e5283671ef1",
+      "title": "Victorian Coalition's election spending and saving explained ahead of state election - ABC News & Headlines – Australian Broadcasting Corporation",
+      "originalTitle": "Victorian Coalition's election spending and saving explained ahead of state election - ABC News & Headlines – Australian Broadcasting Corporation",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXJGaGVHMHU4MU1TUHNZaG1jUm5UdmdxSmhxdTdNN0xVZnN0a1dkNnRPYkJ4Sk9fVGY1a05NT25FVlpUR0wwVlRYUXVsNWlGN1dSalpRTjR1N1dJMm1OcDg3MXpxSUJIaFJ3TWxfZVIxZFBDV2hndnMtS0JzeE0tMm9EZGtLTk10a3N3SGJxNTFOaVJyelR3ejhR?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Victorian Coalition's election spending and saving explained ahead of state election ABC News & Headlines – Australian Broadcasting Corporation Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say The Guardian What happens when you privatise poo? Victoria could",
+      "keyChanges": [
+        "來源：ABC News & Headlines – Australian Broadcasting Corporation（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-93cfb0b4d42f",
+      "title": "Family breaks silence amid horror update on Schoolies bashing victim - The Courier Mail",
+      "originalTitle": "Family breaks silence amid horror update on Schoolies bashing victim - The Courier Mail",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Courier Mail",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.couriermail.com.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-27T16:24:08Z",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeEhSdTFab0dSSXpXTUJfc0hFQUE2NjBlbGgxQllGMzdJV3piTWVQRXpES1Q3djBzVGVjUUJvbHNfOVZucjdUOWV5Ry1DX2R5RjNzYTViY1o5cVVZSnluLUh6R0syWWM4WmZWWEhnODVTN3pLNkxZaGdoMk9nak0wU0ZBM0E0bjdESjF2cXg1MktZRXVfTUc4SFVyQ3VrQ290OHplQTg0SUlMbVROckp5QnI2d3dtLUNHWUNvYkVvSVhya2Nab2p2TWZzMnBGOTF3N2lXc193UFpVV1VCQ0JCMlZpbGR3M21KbzVuQkNTQjAyQVFZaFlkT3VSOUxZczlZRE1WclI1aENIRjQ3?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Family breaks silence amid horror update on Schoolies bashing victim The Courier Mail See more headlines and perspectives on Google News",
+      "keyChanges": [
+        "來源：The Courier Mail（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-819b8d1c3f41",
+      "title": "Rentenreform: Schweitzer legt Renten-Gesetzentwurf vor – „Rente mit 63“ bleibt, Abgeordnete sollen einzahlen - WELT",
+      "originalTitle": "Rentenreform: Schweitzer legt Renten-Gesetzentwurf vor – „Rente mit 63“ bleibt, Abgeordnete sollen einzahlen - WELT",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "WELT",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.welt.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUzR4RlRmQk9YeTJxcGd4VVFaa016QXUxWFhWRVNabWZiVm91cDJra2hNRE5uWElOSjJWaEdUUGtPUjljSXdGcDYyX01PRkZ3cGJuN1VVLWdaVnZnR19reEZGcVUyMDM3a0ZEelBlQ2FrS29oSUhqaF9PaDJlMmg4VGxjdUZjYUdMSlRyNWRXUWp4R2FFeXNNejdvaFE0ZU1pZjFjNHB6Z0lfQ1lfalZTT2o0SDRidW51NjVsYlBrSV91Nm82Qmpndm12b0NBNklhbVNmS3hfcUhtNHZZM0tXME5PekNJNkNmMTkwSnVIUFpab3FRVm14X3ZSVHlCT0ZTQ1BTQnVhSVFYLWc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Rentenreform: Schweitzer legt Renten-Gesetzentwurf vor – „Rente mit 63“ bleibt, Abgeordnete sollen einzahlen WELT \"Rente mit 63\", Kapitalrente, Minijob-Pflicht: Was das Arbeitsministerium für die Rentenreform plant tagesschau.de Rente mit 63: Arbeitsminister Schweitzer legt Entwurf zu Rentenreform vor DIE ZEIT Wirtscha",
+      "keyChanges": [
+        "來源：WELT（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4f50c110f65d",
+      "title": "Neue Milliardenschulden: Bundestag beschließt Haushalt für 2027 - n-tv.de",
+      "originalTitle": "Neue Milliardenschulden: Bundestag beschließt Haushalt für 2027 - n-tv.de",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "n-tv.de",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.n-tv.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUENYV3NoaEZOVk92dktOWnRSc25QVEdZeEpMaXJpU003X1prY3ZGTkowbkdKUDgyYmVKRnFaWkltRHpwTW5zLW1CLTM1NEVDdUNlY1lXN0JXRncxd1dnOWx3T2NUZTg0eVpVV3JKZmZfMmhxTjR4dktuZ20yeXBBV2Z3bDliTlU1ZkJaeg?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Neue Milliardenschulden: Bundestag beschließt Haushalt für 2027 n-tv.de Bundestag stimmt für neuen Haushalt Spiegel Brandenburger CDU-Bundestagsabgeordnete Ludwig will Haushalt nicht zustimmen rbb24.de Bundestag beschließt Mega-Schulden-Haushalt BILD SZ-Videopodcast: Wie gerecht sind die Schulden im Haushalt 2027 für d",
+      "keyChanges": [
+        "來源：n-tv.de（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1605c4002dd6",
+      "title": "EU-Gipfel: Meloni sieht Haushaltseinigung noch »Lichtjahre« entfernt - DIE ZEIT",
+      "originalTitle": "EU-Gipfel: Meloni sieht Haushaltseinigung noch »Lichtjahre« entfernt - DIE ZEIT",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "DIE ZEIT",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.zeit.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczlaNXJxdldHdzBkMzN4bEw3OGY2V2VoMkh3UExzRTF3QWc5ZkpWSWhDMERMVUJUMjBSS0xiLVJIYlNGMjlHSkdBZ2x5RHdyY19FR3dpMlotMktQNDBtUHJkc2xZeUFhUzBxel9YTTAwZVdNUEhoZXZlZzRVdHFKSndVY3RvMWk2U0lLZnZfTnRYYWhUODlLTjROdW9fN1lSY2c?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "EU-Gipfel: Meloni sieht Haushaltseinigung noch »Lichtjahre« entfernt DIE ZEIT Beendigung des Sondergipfels zum EU-Haushalt – CDU-Europapolitiker Herbst warnt vor Feilschen um Beträge Deutschlandfunk ARTE Journal ZDF EU-Gipfel im Streit gescheitert: Wer Merz an die Milliarden will BILD Frust statt Fortschritt: Was der G",
+      "keyChanges": [
+        "來源：DIE ZEIT（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-79ca12fab091",
+      "title": "최민희 ‘당원 정지 2년’ 중징계에 “수용 하기 어렵다”…민주 내홍 격화 - 한겨레",
+      "originalTitle": "최민희 ‘당원 정지 2년’ 중징계에 “수용 하기 어렵다”…민주 내홍 격화 - 한겨레",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "한겨레",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.hani.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBITzBmeXE3bjMxcWJsZnVrNmtpSHZNMmx0aUljdTl0OWJDSmVIOHpqZnNKLXNheWo2a1dHR1Z0UHJZWUFJZy1PV0hKSEZfQTBhRnhDU29JaUZPRnlIdVRUaTUxbjdGLWpyWmV4NE45aEFmczgx?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "최민희 ‘당원 정지 2년’ 중징계에 “수용 하기 어렵다”…민주 내홍 격화 한겨레 [속보] 최민희, ‘당원 자격정지 2년’ 중징계에 “수용 어려워…재심 신청” 경향신문 민주, 최민희에 '당원자격정지 2년' 중징계...\"수용 못 해\" YTN 최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 중앙일보 최민희 ‘당원권 정지 2년’ 중징계에…\"수용 불가\" 재심 신청 JTBC",
+      "keyChanges": [
+        "來源：한겨레（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f50683427261",
+      "title": "헛도는 ‘정년 연장’ 논의…노동계 “65살 연장” 재계 “60살 퇴직 뒤 재고용” - 한겨레",
+      "originalTitle": "헛도는 ‘정년 연장’ 논의…노동계 “65살 연장” 재계 “60살 퇴직 뒤 재고용” - 한겨레",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "한겨레",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.hani.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TQ1RBVGg3UFIyZmZhQzFEVG1nd2gyM3dlV1BEVDUwOUFLZi1aOWE2dE1mT2tCZnNjcjhMY2ZRVzhKMnI1blpDWWJxRXFJb2lxNUljbUlHYzlNbTdNOC1aV2NDTXo?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "헛도는 ‘정년 연장’ 논의…노동계 “65살 연장” 재계 “60살 퇴직 뒤 재고용” 한겨레 與, 2037년 정년 65세로… 2029년부터 단계적 연장 조선일보 ‘정년 연장’ 합의 불발…“노동·경영계 입장 안 좁혀져” KBS 뉴스 ‘정년연장 합의 불발’ 퇴직 앞둔 중장년 어쩌나 이투데이 10개월 만에 재개된 정년연장 논의, 또 합의 불발···연내 입법 ‘여당 결단’에 달렸다 경향신문",
+      "keyChanges": [
+        "來源：한겨레（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b777a883cb91",
+      "title": "해외서도 ‘조희대 탄핵’ 우려... 국제변호사협회 연대 성명 - 조선일보",
+      "originalTitle": "해외서도 ‘조희대 탄핵’ 우려... 국제변호사협회 연대 성명 - 조선일보",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "조선일보",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.chosun.com&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-27T16:24:07Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3UtOUlnM3lHNUpSS0JySm1mNzltaS1lRU5uY2pZcDBzMW9YWEF3VkJrLU9BVE1LVEc5VVZDLWVEM0JscU45MWt4M0xDUGY5ZTJzeEF3Zm1NQTdpak9MNks3TkNTSG0tOWlUcVEzRUhBNWJxc3EzUnptMnoxN0lUN1JsdGFPaFE?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "해외서도 ‘조희대 탄핵’ 우려... 국제변호사협회 연대 성명 조선일보 조희대 탄핵하면? 헌법학자가 꼽은 유력한 결말 OhmyNews [단독] 현직 판사 \"집단행동 맞는지 걱정‥상당 부분 우리 잘못\" MBC 뉴스 [동서남북] 차라리 ‘못마땅한 판결’을 특검하라 조선일보 조희대 탄핵 추진에 세계변호사협회도 우려…\"재검토 촉구\" - 머니투데이 머니투데이",
+      "keyChanges": [
+        "來源：조선일보（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-93b0bc8a797c",
+      "title": "お知らせ：JPCERT/CC ベストレポーター賞 2026",
+      "originalTitle": "お知らせ：JPCERT/CC ベストレポーター賞 2026",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "official",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "JPCERT/CC 日本官方資安警報",
+      "sourceId": "src-jp-jpcert",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jpcert.or.jp&sz=64",
+      "bannerImage": "https://www.jpcert.or.jp/common/image/ogp_image.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-27T16:23:49Z",
+      "url": "https://www.jpcert.or.jp/award/best-reporter-award/2026.html",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "資安公告"
+      ],
+      "aiSummary": "JPCERT/CC 日本官方資安警報 公開資料流即時擷取報導：お知らせ：JPCERT/CC ベストレポーター賞 2026",
+      "keyChanges": [
+        "來源：JPCERT/CC 日本官方資安警報（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bf4d246f52e7",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "originalTitle": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8c9c3b4fb784",
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "originalTitle": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5fc857dfe3a6",
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "originalTitle": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-047cebf4dd47",
+      "title": "'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw' - BBC",
+      "originalTitle": "'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw' - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qVVpyTFFpeVgyWVltREtiWTlhaWxRZzRXclNpYVJtbHZrLUp4NDJETkJNY0RCOVl4OFkwT0hlQkl2NEo2YXJFMUtqVUthZnFEbnh6MkVHSEpsM09IZlE?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw' BBC Burnham facing rebellion from pro-oil MPs The Telegraph Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs The Guardian Andy Burnham faces frontbench resignations if Rosebank goes ahead The Times 92 Labour MPs call for Rosebank oilf",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7ec0ffb5f070",
+      "title": "Violent knifeman told doctor his psychosis drugs weren't working days before train attack - BBC",
+      "originalTitle": "Violent knifeman told doctor his psychosis drugs weren't working days before train attack - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.com&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pbk10OGZnbm5iVTd3MDVlRzg3T050bUEwdTNtWUdFTkktLWpHMnBCTC1OQmRpMHFQX2U5MnlqMF9RTW5Lc2ZaYmw5ZzZZa2RWT1kwMkFVcTE0WUk?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Violent knifeman told doctor his psychosis drugs weren't working days before train attack BBC 'I wouldn't be here today without you': Student's praise for man who stopped train attacker BBC Man who stabbed passengers on train to London guilty of attempted murder of 14 people The Guardian Huntingdon train attack: Anthon",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7ac84dbec50e",
+      "title": "NHS Grampian scandal should be watershed moment - BMA - BBC",
+      "originalTitle": "NHS Grampian scandal should be watershed moment - BMA - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-27T16:23:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFRTE4aTQ3OG13SFRNWFNpTi1jbFU0b3JtaG44c3dOTHN5ZTFjdDNYaW00WC1tNXNDdThPd2FOQkxmMHV5QmN5WHBkSmpvYWYySnV4YVZIMWdJRDVRdnc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "NHS Grampian scandal should be watershed moment - BMA BBC Chief medical officer Gregor Smith resigns on mental health grounds BBC Scientist named as interim chief medical officer for Scotland STV News NHS Grampian scandal: Stephen Flynn calls on those who covered-up deaths to resign The Scotsman Scotland's chief medica",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0545f4691cee",
+      "title": "Severe storms upend Thanksgiving travel and leave hundreds of thousands without power - NBC News",
+      "originalTitle": "Severe storms upend Thanksgiving travel and leave hundreds of thousands without power - NBC News",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NBC News",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nbcnews.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:23:47Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Severe storms upend Thanksgiving travel and leave hundreds of thousands without power NBC News Thanksgiving storm moves to Northeast, brining snow, winds, flooding The Weather Channel More Than 600,000 Without Power After Thanksgiving amid Severe U.S. Storms People.com Watch: Thanksgiving storm inundates coastal towns,",
+      "keyChanges": [
+        "來源：NBC News（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-04cdbf5506bc",
+      "title": "Trump calls for investigation of GDP data released before midterms - USA Today",
+      "originalTitle": "Trump calls for investigation of GDP data released before midterms - USA Today",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "USA Today",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.usatoday.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:23:47Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU56MFQ4TFhBQlIwcE1JUFd6ME5TX1puVWdLZVFiTUNzcDNaMWlLQUdKem5udmVMWmpyUHBNQ1Z0dEp1Q01zWTRMS3dxQm5oclRKbWJJMWYwWDNfRVpBUHBaT2k1OU5RZVRQOVM2Vjd2N0o3ZUw0aUo5WWgtbUsxNFhDNFBSV1BwOGJ5cFVKUzRfYUFud2xrVG5oR3ItRWs?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Trump calls for investigation of GDP data released before midterms USA Today Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government Reuters Trump’s Thanksgiving message attacks adversaries, migrants and economic data The Washington Post Trump unloads on critics in wide-ranging Tha",
+      "keyChanges": [
+        "來源：USA Today（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bdfa3eed9e36",
+      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "originalTitle": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:23:47Z",
+      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-61436412041a",
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "originalTitle": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:23:47Z",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previ",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7ee4d23a16b5",
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "originalTitle": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0020.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-27T16:23:47Z",
+      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankfully, Black Friday can offer a tiny […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-baef1c6c1ad3",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:23:40Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611271034.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風增強，28日晨至晚上桃園市、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f7b79d2b150b",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:23:39Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611271626.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風增強，28日晨至晚上桃園市、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d10cfb8ec838",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-27T16:23:38Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611272239.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風增強，28日晨至晚上桃園市、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ccf45962b421",
+      "title": "vercel/next.js v16.5.0-canary.70 — v16.5.0-canary.70",
+      "originalTitle": "vercel/next.js v16.5.0-canary.70 — v16.5.0-canary.70",
+      "category": "GitHub 釋出",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "vercel/next.js Releases",
+      "sourceId": "src-global-nextjs",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "bannerImage": "https://opengraph.githubassets.com/3dfc8524dc78615fc0aa8e29d8be15b72c6f44202aef9f83053b78df1c4c8643/vercel/next.js/releases/tag/v16.5.0-canary.70",
+      "version": "v16.5.0-canary.70",
+      "publishedAt": "2026-11-27T07:47:58Z",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.70",
+      "heatScore": 82,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "GitHub",
+        "v16.5.0-canary.70"
+      ],
+      "aiSummary": "### Misc Changes - Use instant() to inspect a link on the dev server: #102453 - test: rename externals-transitive fixture deps: #102464 - Turbopack: return StaticImageData for images imported from node_modules: #102389 ### Credits Huge thanks to @aurorascharff and @mischnic for helping!",
+      "keyChanges": [
+        "GitHub 官方釋出 v16.5.0-canary.70"
+      ],
+      "impactScope": "使用 vercel/next.js Releases 之開發專案。",
+      "migrationSteps": [
+        "檢視 Release Notes 確認升級注意事項。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
     {
       "id": "cbl-c625bd4e44e8",
       "title": "Android 热更新完整技术架构及工作流程详解",
