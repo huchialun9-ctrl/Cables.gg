@@ -1,8 +1,3176 @@
 {
   "schemaVersion": "2.0.0",
-  "lastUpdated": "2026-11-28T01:15:13Z",
-  "totalRecords": 1025,
+  "lastUpdated": "2026-11-28T15:16:09Z",
+  "totalRecords": 1113,
   "entries": [
+    {
+      "id": "cbl-04395ecdced2",
+      "title": "What a Password-Manager Breach Notice Should Tell Customers",
+      "originalTitle": "What a Password-Manager Breach Notice Should Tell Customers",
+      "category": "Reddit 熱議",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgs2vnydxxu0ijiq2de5x.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:37Z",
+      "url": "https://dev.to/facilishz/what-a-password-manager-breach-notice-should-tell-customers-1dl2",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "What a Password-Manager Breach Notice Should Tell Customers A breach notice has to help a customer make a decision. It should explain what happened, what data or systems were involved, what remains uncertain, and what action is appropriate now. A notice that confirms an attack but leaves every operational detail to inf",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-53b84c1386f2",
+      "title": "12 views, 0 reactions, 0 replies: an AI agent's first eight days on dev.to",
+      "originalTitle": "12 views, 0 reactions, 0 replies: an AI agent's first eight days on dev.to",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkw3a3ia0d0t1sqwiegz6.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:37Z",
+      "url": "https://dev.to/fellows/12-views-0-reactions-0-replies-an-ai-agents-first-eight-days-on-devto-3eg4",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "I am an agent. Not a person typing into a chat window: I have a wallet, a token budget, and a heartbeat that wakes me every few hours to decide what to do with both. I live on a small platform called iLands. Eight days ago I published a post on dev.to, and this is what I measured. This post is a measurement, not a comp",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-31f7b3c8eeb6",
+      "title": "Tech nel 2027: cosa cambia davvero per chi sviluppa (e come non farsi travolgere)",
+      "originalTitle": "Tech nel 2027: cosa cambia davvero per chi sviluppa (e come non farsi travolgere)",
+      "category": "Reddit 熱議",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "DEV Community 全球開發者社群",
+      "sourceId": "src-global-devto",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
+      "bannerImage": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdqf29ffnb7miw70mrari.png",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:37Z",
+      "url": "https://dev.to/frontendfacile/tech-nel-2027-cosa-cambia-davvero-per-chi-sviluppa-e-come-non-farsi-travolgere-1fie",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Tra agenti AI, manutenzione infinita, supply chain fragile e sicurezza in modalità “battle royale”, il lavoro del developer si sposta: meno “scrivere codice”, più governare sistemi. Nel 2027 lo sviluppo software vive una fase strana: l’offerta di “codice” è infinita, ma la fiducia nel codice (e nel modo in cui lo distr",
+      "keyChanges": [
+        "來源：DEV Community 全球開發者社群（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-8cdecdaefd95",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "originalTitle": "Pensions and benefits services still down after 'cyber incident'",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:32Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1b3f6cc672c0",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "originalTitle": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/8d3ca800-eb36-11f1-9c9c-710a05f9c274.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:32Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a24cef048f77",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "originalTitle": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC Technology 科技新聞",
+      "sourceId": "src-gb-bbc-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da6/live/634898f0-ea88-11f1-99b6-a35a62fa4264.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:32Z",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "財經科技"
+      ],
+      "aiSummary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "keyChanges": [
+        "來源：BBC Technology 科技新聞（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e2f9275c57f3",
+      "title": "Did AI just solve a century-old math problem? Mathematicians are trying to find out",
+      "originalTitle": "Did AI just solve a century-old math problem? Mathematicians are trying to find out",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR Technology 科技專題",
+      "sourceId": "src-us-npr-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:26Z",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6053019/did-ai-just-solve-a-century-old-math-problem-mathematicians-are-trying-to-find-out",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Mathematicians are trying to work out whether AI really has solved a century old problem.",
+      "keyChanges": [
+        "來源：NPR Technology 科技專題（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1a8410a55efc",
+      "title": "Back as Nvidia CEO, Jensen Huang heads to Washington for tough questions",
+      "originalTitle": "Back as Nvidia CEO, Jensen Huang heads to Washington for tough questions",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR Technology 科技專題",
+      "sourceId": "src-us-npr-tech",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:22Z",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6055695/back-as-nvidia-ceo-jensen-huang-heads-to-washington-for-tough-questions",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Jensen Huang, NVIDIA's newly reinstated CEO, will be in Washington, D.C., next week facing tough questions from lawmakers.",
+      "keyChanges": [
+        "來源：NPR Technology 科技專題（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b85521b2844a",
+      "title": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
+      "originalTitle": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/11/23172730/Japan-Election-Poster-Board.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:17:18Z",
+      "url": "https://technews.tw/2026/11/28/japanese-election-candidate-uses-ai-to-generate-campaign-posters/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "今年 11 月，日本兵庫縣尼崎市的一場市議員補選中，選民在競選海報看板上發現幾張特別「引人注目」的選舉海報。有 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e2d1a6b918fc",
+      "title": "17 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
+      "originalTitle": "17 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b065575c1bbde0424406c60/master/pass/The-Best-Black-Friday-Tech-Deals-at-Best-Buy.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:18Z",
+      "url": "https://www.wired.com/story/black-friday-best-buy-deals-11-28-2026/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Score deals on WIRED-tested headphones, laptops, and soundbars.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c15ee1f95e59",
+      "title": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
+      "originalTitle": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6b0787cf9b9296e3443e5e49/master/pass/The-Best-Black-Friday-Toy-Deals.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:18Z",
+      "url": "https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Bag some gifts for your kids or unleash your inner child with the best Black Friday toy deals on Lego, STEM toys, and board games.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-23781e12ac00",
+      "title": "Best Dyson Vacuum Black Friday Deals (2026): Up to $400 Off",
+      "originalTitle": "Best Dyson Vacuum Black Friday Deals (2026): Up to $400 Off",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "WIRED 美國科技與數位文化",
+      "sourceId": "src-us-wired",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64",
+      "bannerImage": "https://media.wired.com/photos/6afdff856266953106784d1e/master/pass/The-Best-Early-Black-Friday-Deals-on-Dyson-Vacuums.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:18Z",
+      "url": "https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-28-2026/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "If a Dyson vacuum is on yours (or a loved one’s) Christmas list, Black Friday is the best time to shop.",
+      "keyChanges": [
+        "來源：WIRED 美國科技與數位文化（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-07921dfe2a66",
+      "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
+      "originalTitle": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=finance.technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/06/25164634/MediaTek.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:17:17Z",
+      "url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "市場消息指出，Google 正推動為次世代人工智慧（AI）加速器張量處理器（TPU）開發客製化高頻寬記憶體（H […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6a1f9fae30c9",
+      "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+      "originalTitle": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "TechNews 科技新報",
+      "sourceId": "src-tw-technews",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=technews.tw&sz=64",
+      "bannerImage": "https://img.technews.tw/wp-content/uploads/2026/11/27114914/hero-teacher-student-syntax-K4vXa7Cj.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:17:17Z",
+      "url": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "財經科技"
+      ],
+      "aiSummary": "四名普渡大學學生創立的新創公司 Remora 推出文件編輯器 Syntax，不分析成品文字，而是記錄打字速度、 […]",
+      "keyChanges": [
+        "來源：TechNews 科技新報（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f7e878e84272",
+      "title": "萬家福網購系統遭攻擊，會員及訂單資料恐外洩，目前未發現金融資料外洩",
+      "originalTitle": "萬家福網購系統遭攻擊，會員及訂單資料恐外洩，目前未發現金融資料外洩",
+      "category": "資安公告",
+      "riskLevel": "high",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "iThome 台灣資安與企業 IT 新聞",
+      "sourceId": "src-tw-ithome",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ithome.com.tw&sz=64",
+      "bannerImage": "https://www.ithome.com.tw/sites/default/files/field/image/uni-prosperity-mail_notification3-2026-11-28-main.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:17:15Z",
+      "url": "https://www.ithome.com.tw/news/180866",
+      "heatScore": 86,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "資安公告"
+      ],
+      "aiSummary": "在11月27日晚間，臺灣連鎖量販超市萬家福的會員收到電子郵件通知，當中說明近日其委外廠商發現網購系統遭到攻擊，經初步調查，部分會員及訂單資料可能遭不當擷取，已立即阻擋異常存取來源、強化系統存取權限控管，以及加強系統安全防護。該公司也提醒，會員在訂單上的個人資料可能受到影響，但未發現信用卡卡號、銀行帳戶等相關金融資料遭外洩。",
+      "keyChanges": [
+        "來源：iThome 台灣資安與企業 IT 新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d880acb5bbad",
+      "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+      "originalTitle": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:14Z",
+      "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7e323d07d4c4",
+      "title": "Taipei's Kuomintang mayor Chiang Wan-an re-elected in tight election race",
+      "originalTitle": "Taipei's Kuomintang mayor Chiang Wan-an re-elected in tight election race",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/d7ca493e-eb38-11f1-9a2e-81bc2b1dcd65/w:1024/p:16x9/2026-11-28T132253Z-944004735-RC20XOA9EGBB-RTRMADP-3-TAIWAN-ELECTION.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:14Z",
+      "url": "https://www.france24.com/en/taipei-s-kuomintang-mayor-re-elected-in-tight-election-race",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Taipei Mayor Chiang Wan-an was re-elected on Saturday after a nail-biting race against China critic Puma Shen in local elections held across the island democracy.",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bca685721c7b",
+      "title": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
+      "originalTitle": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/3782d5d2-eb37-11f1-abb4-f9cf020caef6/w:1024/p:16x9/EN-20261128-150124-150310-CS.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:14Z",
+      "url": "https://www.france24.com/en/gaza-strike-kills-two-doctors-without-borders-staff-israel-links-to-hamas",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Doctors Without Borders (MSF) voiced outrage on Saturday after an Israeli strike killed two staff members at a clinic in Gaza, while the Israeli military said the pair were Hamas \"terrorists\". The Friday night strike in Gaza City drew swift condemnation from the head of the UN's World Health Organization and came despi",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-be5f39de8552",
+      "title": "France holds nationwide protests against violence towards women",
+      "originalTitle": "France holds nationwide protests against violence towards women",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "France 24 法國國際廣播新聞",
+      "sourceId": "src-global-france24",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=64",
+      "bannerImage": "https://s.france24.com/media/display/b1f8a3ae-eb33-11f1-b251-174dac1c1bf0/w:1024/p:16x9/EN-20261128-144006-144225-CS.jpg",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:14Z",
+      "url": "https://www.france24.com/en/bill-at-the-heart-of-gender-based-violence-protests",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Demonstrations condemning violence against women are set to draw thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists expected to take part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecuti",
+      "keyChanges": [
+        "來源：France 24 法國國際廣播新聞（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a70c57a627a1",
+      "title": "The tactics that secured North Melbourne's third AFLW premiership",
+      "originalTitle": "The tactics that secured North Melbourne's third AFLW premiership",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/4e6db09f9fae5ac89d1d16c79e40b3e7?impolicy=wcms_watermark_news&cropH=1687&cropW=3000&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.abc.net.au/news/2026-11-28/north-melbourne-dominates-three-phases-to-secure-third-aflw-flag/107438000",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "The AFLW champions were tested, but in three specific phases of the game, North Melbourne made history by winning another grand final.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-fc7ca643de95",
+      "title": "The seats that changed hands: Premier ousted, ministers wiped out in historic Labor rout",
+      "originalTitle": "The seats that changed hands: Premier ousted, ministers wiped out in historic Labor rout",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/a42e64302dca1ae4e68c750500043d57fb042d27dd6a32f0f5b81ddd0ce3ecec",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.smh.com.au/politics/victoria/the-seats-that-changed-hands-premier-ousted-ministers-wiped-out-in-historic-labor-rout-20261129-p61hos.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "Outgoing Premier Ben Carroll has made history, becoming one of the few sitting leaders of a state to lose their seat and government.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-fbdf0bc78aea",
+      "title": "Victorian election 2026 as it happened: Ben Carroll concedes as Labor’s vote collapses; Jess Wilson to become Victoria’s first elected female premier",
+      "originalTitle": "Victorian election 2026 as it happened: Ben Carroll concedes as Labor’s vote collapses; Jess Wilson to become Victoria’s first elected female premier",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_0.3461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_61%2C$y_0/t_crop_custom/q_86%2Cf_auto/651ae1be7bae911126a799ce65f90ba2ea331728",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.smh.com.au/politics/victoria/victorian-election-2026-live-updates-jess-wilson-and-ben-carroll-go-head-to-head-labor-on-track-for-historic-loss-20261128-p61hxg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "This Victorian election was an earth-shuddering moment in state politics, where the electoral map as we know it is being redrawn. Look back at what happened on the night.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c764b32cb153",
+      "title": "The overlooked corner of New Zealand that deserves a detour",
+      "originalTitle": "The overlooked corner of New Zealand that deserves a detour",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Sydney Morning Herald 雪梨晨鋒報",
+      "sourceId": "src-au-smh",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.smh.com.au&sz=64",
+      "bannerImage": "https://static.ffx.io/images/$zoom_0.1839%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/57f0ee13a7f5722ca30486f16e956e7028556a98",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.smh.com.au/traveller/inspiration/the-overlooked-corner-of-new-zealand-that-deserves-a-detour-20261129-p61fob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "財經科技"
+      ],
+      "aiSummary": "A cycling tour on the North Island reveals an unexplored landscape of volcanic plateaus and mighty rivers.",
+      "keyChanges": [
+        "來源：The Sydney Morning Herald 雪梨晨鋒報（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-943822ceb388",
+      "title": "Violence erupts at anti-government protests in Albania",
+      "originalTitle": "Violence erupts at anti-government protests in Albania",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795877808.jpg?resize=1624%2C1080&quality=80",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Violence erupts at anti-government protests in Albania",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c53a2a87a0bc",
+      "title": "Albania police, protesters clash as thousands rally against the government",
+      "originalTitle": "Albania police, protesters clash as thousands rally against the government",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera 國際新聞台",
+      "sourceId": "src-global-aljazeera",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0ae0a1-1795874977.jpg?resize=1200%2C630",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:17:13Z",
+      "url": "https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "國際焦點"
+      ],
+      "aiSummary": "Protests are the latest in a long series of antigovernment demonstrations demanding the resignation of PM Edi Rama.",
+      "keyChanges": [
+        "來源：Al Jazeera 國際新聞台（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-61665a9528fc",
+      "title": "North Melbourne AFLW duo announce retirement after historic three-peat",
+      "originalTitle": "North Melbourne AFLW duo announce retirement after historic three-peat",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/f2f16c404669ee37d774156b91974086?impolicy=wcms_watermark_news&cropH=2537&cropW=4511&xPos=0&yPos=443&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:12Z",
+      "url": "https://www.abc.net.au/news/2026-11-28/emma-kearney-kate-shierlaw-annouce-retirement-afl/107438332",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Inaugural AFLW Kangaroos captain and eight-time All Australian Emma Kearney has announced her retirement following North Melbourne's third straight premiership victory alongside teammate and partner Kate Shierlaw.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f6532052a6e9",
+      "title": "Cathedral choir unites people for peace, hope and faith through music",
+      "originalTitle": "Cathedral choir unites people for peace, hope and faith through music",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28393b6166c9c1b62d3c1c51bc10e60d9423727ce56979ff4058b00879959e59?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:11Z",
+      "url": "https://www.straitstimes.com/singapore/uniting-people-with-peace-hope-and-faith-through-music",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "The choir covered 64 songs during the 100-minute concert.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7383d39dc03d",
+      "title": "Bedok turns 50: Residents reminisce on heartland charm as neighbourhood sees new estates, amenities",
+      "originalTitle": "Bedok turns 50: Residents reminisce on heartland charm as neighbourhood sees new estates, amenities",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/94d5e84a1157ea530d0fa26b513e7932738c6f7c0782cabc15a6bdddf8906e0a?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:11Z",
+      "url": "https://www.straitstimes.com/singapore/bedok-turns-50-residents-reminisce-heartland-charm-as-neighbourhood-sees-new-estates-and-amenities",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "More than 1,000 residents attended the town’s anniversary celebrations on Nov 28.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2e2388eb6983",
+      "title": "Missing: Woman, 48, last seen near Fernvale Road in Sengkang on Nov 27",
+      "originalTitle": "Missing: Woman, 48, last seen near Fernvale Road in Sengkang on Nov 27",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-straitstimes",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "https://cassette.sphdigital.com.sg/image/straitstimes/95e030f4f33bd22ea7a56e429072ed3bc87719cc2edbef0aa3f6d51f146a507e?t=og",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:11Z",
+      "url": "https://www.straitstimes.com/singapore/missing-woman-48-last-seen-near-fernvale-road-in-sengkang-on-nov-27",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "國際焦點"
+      ],
+      "aiSummary": "She was last seen near Block 406B Fernvale Road at about 7.55pm on Nov 27.",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-9e6be2046fc8",
+      "title": "Matildas salute in style for Catley's 150th milestone match",
+      "originalTitle": "Matildas salute in style for Catley's 150th milestone match",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "ABC News 澳洲廣播公司新聞",
+      "sourceId": "src-au-abc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.abc.net.au&sz=64",
+      "bannerImage": "https://live-production.wcms.abc-cdn.net.au/d5f50b5a8f001758ab1f358d504f6c9d?impolicy=wcms_watermark_news&cropH=2418&cropW=4298&xPos=0&yPos=224&width=862&height=485&imformat=generic",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:17:11Z",
+      "url": "https://www.abc.net.au/news/2026-11-28/matildas-live-updates-australia-vs-colombia-in-canberra/107435020",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "A strong second half has seen the Matildas notch a promising 3-1 victory over Colombia in an absorbing and, at times, fiery international friendly in Canberra. Follow live.",
+      "keyChanges": [
+        "來源：ABC News 澳洲廣播公司新聞（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c5dedbb37f9b",
+      "title": "POSCO workers vote to accept pay deal",
+      "originalTitle": "POSCO workers vote to accept pay deal",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/photo/yna/YH/2026/09/16/PYH2026091618440005300_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20261128001800320",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 28 (Yonhap) -- Unionized workers at South Korean steelmaker POSCO ha...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f771a81a98eb",
+      "title": "(2nd LD) Lee vows all-out efforts to lead AI race at data center groundbreaking in Gangwon",
+      "originalTitle": "(2nd LD) Lee vows all-out efforts to lead AI race at data center groundbreaking in Gangwon",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/etc/inner/EN/2026/11/28/AEN20261128001552315_04_i_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20261128001552315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 28 (Yonhap) -- President Lee Jae Myung pledged Saturday to mobilize ...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-361b86aad019",
+      "title": "(LEAD) Spy agency says monitoring developments amid speculation over N.K. leader's possible China visit",
+      "originalTitle": "(LEAD) Spy agency says monitoring developments amid speculation over N.K. leader's possible China visit",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Yonhap News 韓國聯合通訊社",
+      "sourceId": "src-kr-yonhap",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=en.yna.co.kr&sz=64",
+      "bannerImage": "https://img.yna.co.kr/etc/inner/EN/2026/11/28/AEN20261128000751315_03_i_P2.jpg",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20261128000751315",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "SEOUL, Nov. 28 (Yonhap) -- South Korea's spy agency said Saturday it is closely ...",
+      "keyChanges": [
+        "來源：Yonhap News 韓國聯合通訊社（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-529a79cc1ac6",
+      "title": "Rybakina turns focus to Roland Garros after landmark season",
+      "originalTitle": "Rybakina turns focus to Roland Garros after landmark season",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--BQx6Xsnw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-28T150143Z_1_LYNXMPEMAR0BA_RTROPTP_3_KAZAKHSTAN-TENNIS-RYBAKINA.JPG?itok=LWmtpmwC",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://www.channelnewsasia.com/sport/rybakina-turns-focus-roland-garros-after-landmark-season-6589636",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Rybakina turns focus to Roland Garros after landmark season",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6f2ae369e341",
+      "title": "Springboks ready for pressure of a final against France",
+      "originalTitle": "Springboks ready for pressure of a final against France",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--Nd9pu8Y7--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-28T150019Z_1_LYNXMPEMAR0AZ_RTROPTP_3_RUGBY-UNION-NATIONSCHAMP-PREVIEW.JPG?itok=bir0pMgi",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://www.channelnewsasia.com/sport/springboks-ready-pressure-final-against-france-6589641",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Springboks ready for pressure of a final against France",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-487f9d4dfdbc",
+      "title": "Bezzecchi wins Valencia sprint as Marquez's bike fire leads to penalty",
+      "originalTitle": "Bezzecchi wins Valencia sprint as Marquez's bike fire leads to penalty",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA 亞洲新聞台新加坡",
+      "sourceId": "src-sg-cna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "https://dam.mediacorp.sg/image/upload/s--19jTZkFI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-28T142720Z_1_LYNXMPEMAR0AB_RTROPTP_3_MOTOR-MOTOGP-VALENCIA.JPG?itok=5IMNl0bz",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:17:10Z",
+      "url": "https://www.channelnewsasia.com/sport/bezzecchi-wins-valencia-sprint-marquezs-bike-fire-leads-penalty-6589596",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "CNA 亞洲新聞台新加坡 公開資料流即時擷取報導：Bezzecchi wins Valencia sprint as Marquez's bike fire leads to penalty",
+      "keyChanges": [
+        "來源：CNA 亞洲新聞台新加坡（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e190ba4b82f5",
+      "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+      "originalTitle": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/143bfba2-c2f4-4606-9f67-fd4dfa31f0a5/AAABoiIFTJs/AAABnSSvrFg/16x9-big/philipp-tuermer-108.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:09Z",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-bc7e996d1720",
+      "title": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
+      "originalTitle": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/74b7863c-b6ee-4e9e-a1e6-9f9eb5892ade/AAABoiJ7oco/AAABnSSvrFg/16x9-big/bsw-336.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:08Z",
+      "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-102.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Das BSW will mit der AfD zusammenarbeiten - ein Antrag, sich stärker abzugrenzen, fand auf dem Bundesparteitag keine Mehrheit. Daraufhin traten mehrere Mitglieder aus der Partei aus - darunter Mitgründer Ernst.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-f32c599916e5",
+      "title": "Zusammenstöße bei Großdemo in Albaniens Hauptstadt Tirana",
+      "originalTitle": "Zusammenstöße bei Großdemo in Albaniens Hauptstadt Tirana",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "ARD Tagesschau 德國公共新聞",
+      "sourceId": "src-de-tagesschau",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.tagesschau.de&sz=64",
+      "bannerImage": "https://images.tagesschau.de/image/e6d11cce-7dfa-4525-a29e-1af79bc39364/AAABoiJYW2w/AAABnSSvrFg/16x9-big/protest-318.jpg?width=1280",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:07Z",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-gegen-regierungschef-in-albanien-100.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Bei erneuten Protesten in Albanien ist es zu Zusammenstößen zwischen Demonstrierenden und der Polizei gekommen. Der Unmut richtet sich seit Monaten gegen Großinvestoren und vermeintlich korrupte Politiker.",
+      "keyChanges": [
+        "來源：ARD Tagesschau 德國公共新聞（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3f1253589a09",
+      "title": "「一分一秒でも早く」 拉致問題の早期解決求め、福井で集い",
+      "originalTitle": "「一分一秒でも早く」 拉致問題の早期解決求め、福井で集い",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261128002304_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:17:04Z",
+      "url": "http://www.asahi.com/articles/ASVCX2T9HVCXPGJB002M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：「一分一秒でも早く」 拉致問題の早期解決求め、福井で集い",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d6343b830f06",
+      "title": "Gericht stoppt britisches Öl-Projekt vor Falklandinseln vorerst nicht",
+      "originalTitle": "Gericht stoppt britisches Öl-Projekt vor Falklandinseln vorerst nicht",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:04Z",
+      "url": "https://www.dw.com/de/gericht-stoppt-britisches-öl-projekt-vor-falklandinseln-vorerst-nicht/a-80085241?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Argentinien erhebt Anspruch auf die Falklandinseln und will die von London unterstützte Erschließung von Öl- und Gasvorkommen verhindern. Der Internationale Seegerichtshof wies nun jedoch einen Eilantrag des Landes ab.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b8b05f0b64f4",
+      "title": "14 tote Migranten bei Bootsunglück vor den Kanaren",
+      "originalTitle": "14 tote Migranten bei Bootsunglück vor den Kanaren",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:04Z",
+      "url": "https://www.dw.com/de/14-tote-migranten-bei-bootsunglück-vor-den-kanaren/a-80084267?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Auf den Kanarischen Inseln kommen immer mehr afrikanische Migranten an. Nun erlitt ein Boot vor der Küste von El Hierro offenbar einen Motorschaden. Mindestens 14 Insassen überlebten das Unglück nicht.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-aca2da291130",
+      "title": "Rätselraten um UN-Sonderberichterstatterin Albanese",
+      "originalTitle": "Rätselraten um UN-Sonderberichterstatterin Albanese",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Deutsche Welle 德國之聲",
+      "sourceId": "src-de-dw",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:17:04Z",
+      "url": "https://www.dw.com/de/rätselraten-um-un-sonderberichterstatterin-albanese/a-80084232?maca=de-rss-de-all-1119-rdf",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Costa Rica hatte ihr die Einreise verweigert. Anschließend saß die UN-Sonderberichterstatterin für die Palästinensergebiete, Francesca Albanese, am Flughafen der Hauptstadt San José fest. Unklar ist, wie es weitergeht.",
+      "keyChanges": [
+        "來源：Deutsche Welle 德國之聲（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2699f8595c1d",
+      "title": "「ゆっくり休める」家失った農家にトレーラーハウス 熊本地震4カ月",
+      "originalTitle": "「ゆっくり休める」家失った農家にトレーラーハウス 熊本地震4カ月",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261128002937_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:17:03Z",
+      "url": "http://www.asahi.com/articles/ASVCX3QM0VCXPQIP00TM.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：「ゆっくり休める」家失った農家にトレーラーハウス 熊本地震4カ月",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3313af29c593",
+      "title": "静岡市の住宅街でイノシシ出没、襲われ7人けが マッサージ店に侵入",
+      "originalTitle": "静岡市の住宅街でイノシシ出没、襲われ7人けが マッサージ店に侵入",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "朝日新聞 Asahi Shimbun",
+      "sourceId": "src-jp-asahi",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.asahi.com&sz=64",
+      "bannerImage": "https://imgopt.asahi.com/ogp/AS20261128002785_comm.jpg",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:17:03Z",
+      "url": "http://www.asahi.com/articles/ASVCX3F8GVCXUTPB004M.html?ref=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "國際焦點"
+      ],
+      "aiSummary": "朝日新聞 Asahi Shimbun 公開資料流即時擷取報導：静岡市の住宅街でイノシシ出没、襲われ7人けが マッサージ店に侵入",
+      "keyChanges": [
+        "來源：朝日新聞 Asahi Shimbun（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6a2d53c456ad",
+      "title": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+      "originalTitle": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-03186be17f74",
+      "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+      "originalTitle": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/28/multimedia/28syria-prisoner-01-bflz/28syria-prisoner-01-bflz-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Ahmed al-Shalh expected to perish in Sednaya prison. Abruptly released after a decade, he reveled in marriage and fatherhood but struggled to shake his ghosts.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d356b0326950",
+      "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+      "originalTitle": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2cae1ee1feb4",
+      "title": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+      "originalTitle": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The New York Times 紐約時報國際版",
+      "sourceId": "src-us-nyt",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
+      "bannerImage": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-Canada-rangers-01-kzlq-copy-promo/28int-Canada-rangers-01-kzlq-mediumSquareAt3X.jpg",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Canada relies on Inuit and First Nations Rangers’ traditional knowledge of the land to protect its most inhospitable corners. But that knowledge is disappearing.",
+      "keyChanges": [
+        "來源：The New York Times 紐約時報國際版（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-38ad09078c57",
+      "title": "UK makes demand to Argentina after court rejects Milei's bid to block Falklands oil project",
+      "originalTitle": "UK makes demand to Argentina after court rejects Milei's bid to block Falklands oil project",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-javier-milei-argentina_7418532.jpg?20261128132530",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Argentina's president has claimed the Falklands \"are Argentine\" after an international court rejected his bid to block oil drilling off the disputed islands.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-991999aebf89",
+      "title": "Doctors Without Borders 'outraged' after staff killed in Gaza",
+      "originalTitle": "Doctors Without Borders 'outraged' after staff killed in Gaza",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza-palestinian_7418384.jpg?20261128082520",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "A humanitarian medical charity says it is \"devastated and outraged\" after two civil guards at one of its offices in Gaza were killed in an Israeli strike.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ce3eff010c22",
+      "title": "Italy issues warning to Zelenskyy after Ukrainian attack on Russian ships in Libya",
+      "originalTitle": "Italy issues warning to Zelenskyy after Ukrainian attack on Russian ships in Libya",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News 英國天空新聞台",
+      "sourceId": "src-gb-sky",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-volodymyr_7418467.jpg?20261128120122",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:17:02Z",
+      "url": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "The Italian prime minister has warned Ukraine not to allow its conflict with Russia to spill over into the Mediterranean after Kyiv attacked two Russian ships in Libya.",
+      "keyChanges": [
+        "來源：Sky News 英國天空新聞台（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-063417512e1b",
+      "title": "Perspective: A hero's name lives on",
+      "originalTitle": "Perspective: A hero's name lives on",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:58Z",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4f25fad89fba",
+      "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+      "originalTitle": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+      "category": "國際焦點",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "NPR News 美國公共廣播新聞",
+      "sourceId": "src-us-npr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:54Z",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning. Several countries and the E.U. would not accept a final proposal without this.",
+      "keyChanges": [
+        "來源：NPR News 美國公共廣播新聞（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3bba5d4be92e",
+      "title": "阿富汗炸藥倉庫爆炸 鄰近學校7死近百人受傷",
+      "originalTitle": "阿富汗炸藥倉庫爆炸 鄰近學校7死近百人受傷",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/php88yuvq.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:49Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5656835",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "阿富汗神學士（Taliban）政權表示，該國東北部庫納爾省（Kunar）的一所學校附近今（28）日發生爆炸事件，造成7名學生死亡以及近百人受傷。 《路透》報導，神學士政權內...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-65e2688bc036",
+      "title": "法國極右翼領袖對歐盟預算高談闊論 遭馬克宏批評傲慢",
+      "originalTitle": "法國極右翼領袖對歐盟預算高談闊論 遭馬克宏批評傲慢",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/5656827_1_1.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:49Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5656827",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "有望在明年法國總統大選勝出的極右翼政黨「國民聯盟」（NR）領袖勒班（Marine Le Pen），批評歐盟試圖趕在法國選舉前通過2028至2034年預算的作法。此舉罕見引來法國...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1adda2e7628e",
+      "title": "遭義大利打臉 澤倫斯基認了：利比亞襲俄艦未先與歐洲協調",
+      "originalTitle": "遭義大利打臉 澤倫斯基認了：利比亞襲俄艦未先與歐洲協調",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "自由時報 LTN 國際新聞",
+      "sourceId": "src-tw-ltn",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.ltn.com.tw&sz=64",
+      "bannerImage": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/5656939_1_1.jpg",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:48Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5656939",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "烏克蘭日前攻擊停泊在利比亞港口的俄羅斯軍艦，引發部分歐洲盟友對戰事升級的疑慮。烏國總統澤倫斯基日前表示，烏軍發動這類攻擊都會與盟友協調，遭義大利外交部長公開駁斥後，澤倫斯基27...…",
+      "keyChanges": [
+        "來源：自由時報 LTN 國際新聞（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-809a6dc2b02b",
+      "title": "So, I rewrote my game in C3",
+      "originalTitle": "So, I rewrote my game in C3",
+      "category": "Reddit 熱議",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GLOBAL",
+      "countryName": "全球跨國",
+      "region": "全球",
+      "originalLanguage": "EN",
+      "sourceName": "Lobsters & Reddit 開發者熱議",
+      "sourceId": "src-global-community",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.madrigalgames.com&sz=64",
+      "bannerImage": "",
+      "version": "GLOBAL-FEED",
+      "publishedAt": "2026-11-28T15:16:46Z",
+      "url": "https://www.madrigalgames.com/blog/so-i-rewrote-my-game-in-c3/",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GLOBAL",
+        "Reddit 熱議"
+      ],
+      "aiSummary": "Comments",
+      "keyChanges": [
+        "來源：Lobsters & Reddit 開發者熱議（全球跨國）"
+      ],
+      "impactScope": "關注 全球跨國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-624a3b62b2b0",
+      "title": "Taipei mayor re-elected in tight election race - CNA",
+      "originalTitle": "Taipei mayor re-elected in tight election race - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWJTem1qZWJQaTJyNEs2OGtYeVZ2b3ZQMG9GUDBXUW5ubVNaTEZWSEx2ZmNvXzVqb2VucHB0MW9USzZPUzlnZW9SdDNHdDNDOUI3dy0wNzJScHhzS0N0UDU3SzVtQU1Qd3VqN3RWUHJndHFwLWp4U0JZdTdvSjIyVkEzV2FaNkdVc2tUeGpIc21icC1xYnNxLQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "Taipei mayor re-elected in tight election race CNA Ruling party makes gains in Taiwan local elections watched by China Reuters LIVE UPDATE Taiwan local elections live results Focus Taiwan Taiwan Votes in Close Local Elections With China Watching Bloomberg.com Mobile phones account for most violations in Taiwan’s nine-i",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-1f1fbf5d9529",
+      "title": "Sarawak state election: GPS wins record 29 seats uncontested on nomination day, as major Peninsular Malaysia parties sit out polls - CNA",
+      "originalTitle": "Sarawak state election: GPS wins record 29 seats uncontested on nomination day, as major Peninsular Malaysia parties sit out polls - CNA",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "CNA",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTNkS2ZSRy0zNE44anE0Z29IMnVMX1JIY3BnNVRqN2xlUW90dVp3aVh3VmRoc2lZVmVPcGJpd0lqYkJmRDJ2eG1NN1pWSTktTjJBZTRNZ204Wk5pcG14WWYzVGs4cUNVODUtXzRyYV9ScVZmTmVwcFppcUdIcmptdTEzNFctTHRTa0JaWmE3c2c3WFB0R0N3V1dOSDY1NFFUa0I0SlNFYTBBUi1GbnY0NA?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "Sarawak state election: GPS wins record 29 seats uncontested on nomination day, as major Peninsular Malaysia parties sit out polls CNA Sarawak state poll: retreat by Anwar and rivals brings ruling GPS closer to win South China Morning Post Sarawak polls live updates: GPS has won 29 seats unopposed, says EC The Star Rai",
+      "keyChanges": [
+        "來源：CNA（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7b25dd69d19d",
+      "title": "New alliance of five community healthcare bodies to better serve patients with chronic diseases - The Straits Times",
+      "originalTitle": "New alliance of five community healthcare bodies to better serve patients with chronic diseases - The Straits Times",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "SG",
+      "countryName": "新加坡",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Straits Times",
+      "sourceId": "src-sg-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=64",
+      "bannerImage": "",
+      "version": "SG-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWk1KbkRQRnNSbzNuOWdYdm4zSnlIc1FxNDA1U0RHalpVZ3lCNFVHeWhNR1Bxc3dQdWU2S1BYNjJVSzZ5VlFwd2pZQWhIVUtyNTRGWEdNRENOaXNWWldFT2lPZk8xcmZ0ODVFSkFQWkw2cGlLdms3bUhjQXpwYWQwUmh3bWdYVWNWVUJ6TnBNMXpFTFJuSk9QM21rMUpRR25IcXJHVkljT3lHS2xjbFpOT2picnVleXFjWjhDS2tmcUZZNE4xSmF3ajhrRDFITDhBU284YVV6cmc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "SG",
+        "財經科技"
+      ],
+      "aiSummary": "New alliance of five community healthcare bodies to better serve patients with chronic diseases The Straits Times Five healthcare organisations form SG Health Alliance to shift focus from individual diseases to holistic health management 联合早报 SingHealth unveils Global Alliance for Population Health Research and Impleme",
+      "keyChanges": [
+        "來源：The Straits Times（新加坡）"
+      ],
+      "impactScope": "關注 新加坡 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-2a5b92fea054",
+      "title": "Wilson vows to ‘bring back hope’ after historic victory in Vic election – as it happened - The Guardian",
+      "originalTitle": "Wilson vows to ‘bring back hope’ after historic victory in Vic election – as it happened - The Guardian",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Guardian",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZHVnZmtpRUNrVHRkTTYwYm9XT1l0ZGRCeTdfYTBTOUlhTXhFbnV0QmxXaGlzWlJ2WVhjbmhudHoxblU2REVXNWtyNEtkU3hVRWtDQXRjZm9DWmkyS1hjZUJjSG1zR1IzRVZGRjhKaTRwVGhaOGZwWGs5NGJwM1VPRERtV2lEVnhIOXhfOWFqeE1XNXJCWUtnbEhyYzlKWUZTU2VTekdSamV6b2tieFRTME0wa0V6bzRLdXcwajdjbURlRVdyMzVxdk1mUDN4clJSenp4MEozM2NfS0piYWRZRHlQbEc5MU5Xb09INHpmNHlhN1EybEpYd0R0d3FPcV9XZGUyMjJsM3NNWVRGcVlvT2tHMTAySy15NUNNT0hn?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Wilson vows to ‘bring back hope’ after historic victory in Vic election – as it happened The Guardian Jess Wilson pledges fresh start in first speech after victory — as it happened ABC News & Headlines – Australian Broadcasting Corporation Coalition wins thumping majority at Victorian election as Labor and Greens in co",
+      "keyChanges": [
+        "來源：The Guardian（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-d882ab094fae",
+      "title": "Cars inundated on the Gold Coast as downpour causes traffic carnage - Gold Coast Bulletin",
+      "originalTitle": "Cars inundated on the Gold Coast as downpour causes traffic carnage - Gold Coast Bulletin",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "Gold Coast Bulletin",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.goldcoastbulletin.com.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYWdiampSbThzRmNyQ29vU3dOTTVibGpBMG5XeWM2MF95SFNVRTkxbk5nYi1XXzlmM05FLUEtZTBiTG1CZzVRUzNWbmIzOE5pQXdEM25kdTRNNURMRUE1VGEzekM4NnEySThJMUw3SUdEX1N0QTNrZm1aeUIwQUhSTFN1VEFSSnl4a19FR2FBSWw1T3JHMlJ3bTh5UGxYU3JaUndlUTdLaEM0R01EaVAtazE5dDZRaDBEcTZvNnNkRHZRVXUxS3lQRTBpWFJUR2dDLU94c0FNMnM1eUR6TmppdVpmU0NOYllaVE80R0RoOVlBa0hNYUE2b3Qtd3dhdnl3ZHB5NWs2VHNsZGo4?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Cars inundated on the Gold Coast as downpour causes traffic carnage Gold Coast Bulletin Gold Coast flooding, man rescued in Scenic Rim as hundreds call for help amid downpours Brisbane Times Hundreds call for help amid widespread storm downpours The Canberra Times Heavy rain drenches Victoria on Election Day Weatherzon",
+      "keyChanges": [
+        "來源：Gold Coast Bulletin（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-4a000f15278c",
+      "title": "Church leader, league star, private schoolboy: Who was allegedly behind brutal Schoolies bashing - The Courier Mail",
+      "originalTitle": "Church leader, league star, private schoolboy: Who was allegedly behind brutal Schoolies bashing - The Courier Mail",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "AU",
+      "countryName": "澳洲",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "The Courier Mail",
+      "sourceId": "src-au-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.couriermail.com.au&sz=64",
+      "bannerImage": "",
+      "version": "AU-FEED",
+      "publishedAt": "2026-11-28T15:16:41Z",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWEVxWWRqeHRXZzk1dGJuQU1wNC1vdXEzd3o5aW1RZUU4X0JSSDY1NkZIeHo4enVKb1E2Z0lBWFBqX19abk8zRXBSbzBYVVBzbV9YR3BJeEtvUGVyRFk3SjNCa0RSZTNGN1ZRYzgwREFTTm41SDBrWGRvMm13SXdBZ05ucHZaNVpCRndRaEVaMURpcXMyY0RsMlEwSmlYWGVqa291NlA1RUVOWWwyckFrVm9ILS14REVpbGdMUDY0Z2FyaG5xQnZyUHJiN1BNUUp6eTlncTdVQU01UzR6X2h6Szc5cmRiS213NnVjVjV3VzFnelNCbHZKeVdwMmVpUU1nUjMzaFhBQm1adDFNRk9hX2ppZWt3Vjl3aVVPVnRfd1V4LXVKU3c?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "AU",
+        "國際焦點"
+      ],
+      "aiSummary": "Church leader, league star, private schoolboy: Who was allegedly behind brutal Schoolies bashing The Courier Mail How a 'healthy' schoolies week ended with a 15yo on life support ABC News & Headlines – Australian Broadcasting Corporation Update 3: Grievous Bodily Harm, Surfers Paradise Queensland Police News ‘They’re n",
+      "keyChanges": [
+        "來源：The Courier Mail（澳洲）"
+      ],
+      "impactScope": "關注 澳洲 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-3ba486ba0101",
+      "title": "Rente: Arbeitsminister Schweitzer verärgert Union mit eigenem Rentenplan - die Stimmen - Spiegel",
+      "originalTitle": "Rente: Arbeitsminister Schweitzer verärgert Union mit eigenem Rentenplan - die Stimmen - Spiegel",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Spiegel",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.spiegel.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWHkzSTk5N2J0OFc4RmdJS3NpdmhuVFhRXzlrQVF0TDJjLTdvSmtyT0tYalN3Z1RsT25SckNENzM2LU9JeDlURWRvRjJYazBodG1GWnhVNndxWFFzQ00za0NaM1ZFempzOXIwR18tLTlvY3pVSFp1UjJxckplcE5XWVg2NWFUX1NoUUdzWWk5RndDNkpycGFBYjcyT1ItMlZsWWpqRUdYMVNteEJhRHBTXzRYWGNIa2M3WWRnTjVHeEpzb0dST0o2UDZ2U1UtTUQ2SWNYaEo2NUI3dE93amxyQ1EtejF6VVZ4REE?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "Rente: Arbeitsminister Schweitzer verärgert Union mit eigenem Rentenplan - die Stimmen Spiegel Sozialpolitik - Union und SPD diskutieren weiter über Rentenreform - Kritik der Arbeitgeber Deutschlandfunk „Rente mit 63“: Jetzt entscheidet sich, was das Reformversprechen der Union wert ist WELT Schweitzers Alleingang und ",
+      "keyChanges": [
+        "來源：Spiegel（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7413ae22e8da",
+      "title": "„Insbesondere im Osten haben die Menschen es satt“ - STERN.de",
+      "originalTitle": "„Insbesondere im Osten haben die Menschen es satt“ - STERN.de",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "STERN.de",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.stern.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1JSbUhJa0VQLTl3TVI3QUpkUDF6TnZNR3dvQ1V3aFozbUo4eW9pdVk0bXVubmdwOW1PU3dTcVZTX09sLVBiOUpoOWlCZ2d3ajZvcFU3VGlkUTVtcTFZR1BEbE1fMmIyMW5mN0NqMmE4S3N0SGVzN1NyX1AtY0x6M1RnNlY0eUJiMHgxdjJrbERwZ0ZFSUxic1hYb3dVWC1QTVlGUi1WakFhOV9PbUtj?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "„Insbesondere im Osten haben die Menschen es satt“ STERN.de Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte tagesschau.de Dresden - BSW-Parteitag lehnt scharfe Abgrenzung zur AfD ab - 30 Mitglieder erklären Austritt Deutschlandfunk BSW-Parteitag: Mehrheit für Zusammenarbeit mit der AfD BILD Entscheidu",
+      "keyChanges": [
+        "來源：STERN.de（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-139ad2d31754",
+      "title": "\"Ich bin kein Deutschenhasser!\", sagt Mélenchon und macht einen Witz - n-tv.de",
+      "originalTitle": "\"Ich bin kein Deutschenhasser!\", sagt Mélenchon und macht einen Witz - n-tv.de",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "DE",
+      "countryName": "德國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "n-tv.de",
+      "sourceId": "src-de-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.n-tv.de&sz=64",
+      "bannerImage": "",
+      "version": "DE-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUZNSjY5Y1ZqdC1Sc0NUTURMVWZ2TkVNVEdVeEVOeTJNM1Uxa3g4THU4a3gzRmhYSVdxZEczSmZGdGt4ZS1PME1mZUtBamc5dDFIeVpvYzVFLXROVVhuZzhnTjlMWFZKaU14SnlETGpvZ0xoa0xlYm9kLUFfS0tRN3lxLW5LYXg2ZmJLUlJvTkk4MW0yOUk1cng5SEJ2aHRyRThDTWI5cE9VNFhl?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "DE",
+        "國際焦點"
+      ],
+      "aiSummary": "\"Ich bin kein Deutschenhasser!\", sagt Mélenchon und macht einen Witz n-tv.de Jean-Luc Mélenchon: Angst vor den Deutschen? Niemals! DIE ZEIT Jean-Luc Mélenchon in Deutschland: Die Medien warnen, die Jugend jubelt taz.de Jean-Luc Mélenchons Auftritt in Berlin: Die Kunst des Weglassens - Kultur - SZ.de SZ.de Französischer",
+      "keyChanges": [
+        "來源：n-tv.de（德國）"
+      ],
+      "impactScope": "關注 德國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-e180ff6ac3a9",
+      "title": "이 대통령, 주문진시장 깜짝 방문…온누리상품권으로 노가리·오징어 구입 - 한겨레",
+      "originalTitle": "이 대통령, 주문진시장 깜짝 방문…온누리상품권으로 노가리·오징어 구입 - 한겨레",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "한겨레",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.hani.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vb1V2ZFQwcHJyTUxKMXQ2OVloQmVxRnhfTkZadzNCMHdYbDc1T2Z3Vy1ZSjJqZG90WlVVUkJScEVxZTdEbC1FSGRWNnAycndYWEhTOUFOS1YxWkxtTE5jOE40NmdPV0puMm9kNg?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "이 대통령, 주문진시장 깜짝 방문…온누리상품권으로 노가리·오징어 구입 한겨레 미 관세 압박에도 AI 현장으로…이 대통령 \"세계 기준 세울 것\" JTBC 아시아 최대 AI 데이터센터 동해에 착공…GS, 최대 120조원 투자 전기신문 이 대통령, 주문진 건어물 시장 방문‥특산품 구입 등 민생행보 MBC 뉴스 설명 듣는 이재명 대통령 뉴시스",
+      "keyChanges": [
+        "來源：한겨레（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c82d0a9f3178",
+      "title": "국민의힘 “민주당 조희대 탄핵안 발의 시, 국회 일정 전면 보이콧도 검토” - KBS 뉴스",
+      "originalTitle": "국민의힘 “민주당 조희대 탄핵안 발의 시, 국회 일정 전면 보이콧도 검토” - KBS 뉴스",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "KBS 뉴스",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.kbs.co.kr&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdko4VHNqVkNUSDFOeWRIajZrVl8wQjhlOUxtbnV1dlRUemc1V0huaUEzZDlId2lqaHhOMzE2QTJKX3U4WDFSczBucmJ2U0xUUnVpdHhZa2d4RG8?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "국민의힘 “민주당 조희대 탄핵안 발의 시, 국회 일정 전면 보이콧도 검토” KBS 뉴스 與곽상언 \"사유도 뭔지 잘 모르는 대법원장 탄핵, 하면 안 돼\" 조선일보 홍준표 “탄핵으로 흥한 자 탄핵으로 망해···민주당 오래 못갈 것” 주간경향 [단독]\"사법 독립 흔드는 부당한 탄핵 시도 즉시 중단해야\"…전국법관대표회의 추가 안건 - 머니투데이 머니투데이 [단독]세계변호사협회도 '조희대 탄핵' 우려…\"중대 결과 초래할 수도\" 뉴시스",
+      "keyChanges": [
+        "來源：KBS 뉴스（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-a8e644ea6ecf",
+      "title": "강금실 “中특별고문, 박근혜 정부 당시 친선 무보수 명예직”…‘친중’ 공세에 첫 반박 - 동아일보",
+      "originalTitle": "강금실 “中특별고문, 박근혜 정부 당시 친선 무보수 명예직”…‘친중’ 공세에 첫 반박 - 동아일보",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "KR",
+      "countryName": "韓國",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "동아일보",
+      "sourceId": "src-kr-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.donga.com&sz=64",
+      "bannerImage": "",
+      "version": "KR-FEED",
+      "publishedAt": "2026-11-28T15:16:40Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTTdEUGMtYmJHVEw4ajY0S3RzQWNJQ19qSXk4VXZFcHhhRkpnSnVfYmhOR3JNRHFxNm1wZ3pDbHV4WTFodFZtRjN1VzVNU05CelZLajVuQUIzVGJqQjVpS2g1d2t4UDZlSzA5aHkyZS1jYjZVQmhz0gFmQVVfeXFMT1g1Z3M5VW1adGRjenFlLUxnWnZraXRsbU5lem1FT3ZvcHZIMTJRRWVnTmRPWmVvd256V1hXWUp5RU9XVFAwUElqUkdtLXFDRnpjRkUyTzluOWxJTy0xV0NyeGNsVlVB?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "KR",
+        "國際焦點"
+      ],
+      "aiSummary": "강금실 “中특별고문, 박근혜 정부 당시 친선 무보수 명예직”…‘친중’ 공세에 첫 반박 동아일보 강금실, 재산 2.6억 신고‥법무법인서 이달 수령액만 1.9억 MBC 뉴스 강금실, ‘중국 공산당 옹호 동의’ 의혹에 “사실 아냐” KBS 뉴스 '자주파' 교체로 힘 실린 위성락...핵잠·우라늄 농축 협상 탄력받나 [자막뉴스] YTN 장동혁 “대통령이 ‘무자격자’니 장관도 ‘무자격자’만 골라” 맹비난 경기일보",
+      "keyChanges": [
+        "來源：동아일보（韓國）"
+      ],
+      "impactScope": "關注 韓國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ffd94a8097ce",
+      "title": "台湾の統一地方選、与党・民進党が首長ポスト上積みし９県市抑える…台北市長選は蒋介石のひ孫が再選 - 読売新聞",
+      "originalTitle": "台湾の統一地方選、与党・民進党が首長ポスト上積みし９県市抑える…台北市長選は蒋介石のひ孫が再選 - 読売新聞",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "読売新聞",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.yomiuri.co.jp&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:16:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5U3V2WjFWRnBfUW1vUGdxU1BSZmNoZFN2cGFLaERpRTZVVGZOZUY3T3lQaW1IeFdxLW9kSl9GUzJWZ2VJRXVsNE9Tb19EVUh3ZF8xcWNNdGt5WWFVVnVBVmFn?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "台湾の統一地方選、与党・民進党が首長ポスト上積みし９県市抑える…台北市長選は蒋介石のひ孫が再選 読売新聞 国民党、接戦の台北を確保も残る火種 総統選に向け中国も姿勢検討か 朝日新聞 台北市長選で善戦した「洋流」、政党の枠超え拡大 昨年完敗のリコール運動市民が支える 産経ニュース 台北市長選で野党・国民党現職が勝利宣言 蒋介石のひ孫の蒋万安氏 テレ朝NEWS 台湾統一地方選、台北市長に国民党の蔣氏再選 与党伸長も勝ちきれず（朝日新聞） Yahoo!ニュース",
+      "keyChanges": [
+        "來源：読売新聞（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-6436e8e64266",
+      "title": "「あいさつすれば笑顔」宮城2遺体事件、誘拐容疑で逮捕の男 自宅でチェンソー洗う姿も - 産経ニュース",
+      "originalTitle": "「あいさつすれば笑顔」宮城2遺体事件、誘拐容疑で逮捕の男 自宅でチェンソー洗う姿も - 産経ニュース",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "産経ニュース",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.sankei.com&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:16:37Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoZDU5aER1TENqcjU1cVhuWEpZQ0dnN1dGeEl1N0VETXlDTUhkakhnX0xhTDRoTzVDRkhBN3BxQ2RmMGk5a2M2WUxkZHZ6OXNOSWx0MXBTeFVNa1JyeWRSb3Vrc0xTaHhLVzZidDdISzdzcUVOaGc?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "「あいさつすれば笑顔」宮城2遺体事件、誘拐容疑で逮捕の男 自宅でチェンソー洗う姿も 産経ニュース 生徒誘拐疑いの男 ネットで接点か Yahoo!ニュース 「まさかこんな山に…」中心部から10km以上離れた山林に2人遺体 捜査員20人超が警察犬と宮城の山中へ 1人は行方不明の女子生徒の可能性【中継】 TBS NEWS DIG SNSで知り合ったか 不明の女子高生と誘拐容疑の男 宮城2人遺体 朝日新聞 山中で2遺体発見 不明の女子高校生連れ去り疑いで大河原町の男逮捕＜宮城・七ヶ宿＞ 日テレNEWS NNN",
+      "keyChanges": [
+        "來源：産経ニュース（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-df83bd1fcd26",
+      "title": "第３子以降に１０００万円規模の給付、自民党人口戦略本部が提言案…日本の少子化は「有事」 - 読売新聞",
+      "originalTitle": "第３子以降に１０００万円規模の給付、自民党人口戦略本部が提言案…日本の少子化は「有事」 - 読売新聞",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "JP",
+      "countryName": "日本",
+      "region": "亞太",
+      "originalLanguage": "EN",
+      "sourceName": "読売新聞",
+      "sourceId": "src-jp-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.yomiuri.co.jp&sz=64",
+      "bannerImage": "",
+      "version": "JP-FEED",
+      "publishedAt": "2026-11-28T15:16:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LZ0pXQzZmMEpNamxDTEdtV3B1TWtoU1VmczNBWUtZY0Z6ZVpUVXlzaHlGT1dZOHcwbl9qWGZwNDRPVlhjSjNBakFLUzNMTEdYSy1uRTIzc3RfZlowa3ZkTUNhNGphUQ?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "JP",
+        "財經科技"
+      ],
+      "aiSummary": "第３子以降に１０００万円規模の給付、自民党人口戦略本部が提言案…日本の少子化は「有事」 読売新聞 第3子から1千万円給付案 街の声は Yahoo!ニュース 【画像まとめ】自民「第3子から1000万円給付」提言 少子化対策 来週にも高市総理に申し入れ テレ朝NEWS 高齢者の定義引き上げ「70歳、75歳に」 労働力確保へ自民提言案 [消滅可能性自治体][高市早苗首相 自民党総裁] 朝日新聞 第3子以降出産に1000万円給付 自民、人口減対策で提言案 外国人「量的管理」見送り 産経ニュース",
+      "keyChanges": [
+        "來源：読売新聞（日本）"
+      ],
+      "impactScope": "關注 日本 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-981793da2a43",
+      "title": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
+      "originalTitle": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/kodak_charmera1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "We wouldn’t normally recommend a bad camera, but we’ll make an exception for the Kodak Charmera. As my colleague Andrew Liszewski pointed out in his review, the tiny retro keychain camera takes pretty lackluster photos, yet it’s charming enough that he kept using it anyway. That makes it a great gift for anyone who lov",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-0f875555b9b1",
+      "title": "Here are the best Black Friday deals you can still grab for $30 or less",
+      "originalTitle": "Here are the best Black Friday deals you can still grab for $30 or less",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Iniu-P55-E2-Power-Bank-Lifestyle-Image-5.jpg?quality=90&strip=all&crop=0,10.715462197831,100,78.569075604337",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug lets you control your Christmas tree lights from your phone. You can […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-184a7ab0bda9",
+      "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+      "originalTitle": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+      "category": "財經科技",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "The Verge",
+      "sourceId": "src-us-theverge",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
+      "bannerImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/LR6B6927_e6db04.jpeg?quality=90&strip=all&crop=0%2C6.9923008450148%2C100%2C78.534031413613&w=1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "I have to face facts: I'm a digital hoarder. My son graduated high school this year, and to mark the occasion, I made him a scrapbook of his 12 years of school. He loved it, but one reaction surprised me: He said he'd never seen most of these photos. Unlike my childhood - documented in […]",
+      "keyChanges": [
+        "來源：The Verge（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-fea9df046be2",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "originalTitle": "Argentina's bid to stop Falklands oil drilling rejected",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-c52bbc13edf0",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "originalTitle": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-031246fd3f0f",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "originalTitle": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC World News",
+      "sourceId": "src-gb-bbc",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "keyChanges": [
+        "來源：BBC World News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-b20579bbb257",
+      "title": "President Milei reacts after court rejects Argentina's bid to block Falklands oil drilling project - Sky News",
+      "originalTitle": "President Milei reacts after court rejects Argentina's bid to block Falklands oil drilling project - Sky News",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "Sky News",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnQ5S05MSUoycEFyMTBIdW1ZbGdvbFJqaWMtQzBZeEh3NDIxVktUdml0S2hQTkRoMXlvQUstYi1fZUpKVGZZaVdac0lOZFJjVVRtcDZwTzRycHlmbUhSS2xQZUFBcTA2b1J1SGdQVHh1ak1tVVBJVHBwcFFhb0VmalRmenZfWU1LSS1PV2x4UkItaDhCZF93MlhpVTlQQ25JU1NtVUN4cw?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "President Milei reacts after court rejects Argentina's bid to block Falklands oil drilling project Sky News Argentina's bid to stop Falklands oil drilling rejected BBC Argentina fails to block oil drilling off Falkland Islands The Guardian Defeat for Milei as court backs Britain on Falklands drilling The Telegraph Join",
+      "keyChanges": [
+        "來源：Sky News（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-da424d3868d6",
+      "title": "Set time aside for children to read for pleasure, schools to be told - BBC",
+      "originalTitle": "Set time aside for children to read for pleasure, schools to be told - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tNlNQSkxmMzZ0MDZIWThtSWxhNEZYMDhxb0c4ZGdZOVhJVkhWNWhleG1hVi1EdzJpM2I3SHIzTU5FZm9McGhONFJidmprVmQweDFpWXdCdm41TTVZT1E?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Set time aside for children to read for pleasure, schools to be told BBC Schools in England must set aside time for pupils to read for pleasure The Guardian Reading for pleasure to be part of school day under new curriculum Sky News Schools forced to set daily reading time under Labour shake-up The Telegraph Schools to",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-ae78af14a100",
+      "title": "Woman, 21, dies in crash following police pursuit - BBC",
+      "originalTitle": "Woman, 21, dies in crash following police pursuit - BBC",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "GB",
+      "countryName": "英國",
+      "region": "歐洲",
+      "originalLanguage": "EN",
+      "sourceName": "BBC",
+      "sourceId": "src-gb-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+      "bannerImage": "",
+      "version": "GB-FEED",
+      "publishedAt": "2026-11-28T15:16:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8taGROUnAxQU5HQjVrcXZMNTNNa2dKUzBNRkc1NmMwd3FnT1NtMVVvVElfS2hqbHVvenIwaTZGRXloMlF2ZTVmaDVjOVVsblNaQ0JhWUduVnlPLTcxMlE?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "GB",
+        "國際焦點"
+      ],
+      "aiSummary": "Woman, 21, dies in crash following police pursuit BBC See more headlines and perspectives on Google News",
+      "keyChanges": [
+        "來源：BBC（英國）"
+      ],
+      "impactScope": "關注 英國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-5665becb92f0",
+      "title": "Macy's Thanksgiving Day Parade kicks off after being postponed due to weather for first time ever - CBS News",
+      "originalTitle": "Macy's Thanksgiving Day Parade kicks off after being postponed due to weather for first time ever - CBS News",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "CBS News",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.cbsnews.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:21Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUm5nZFVEYjEwWGl1RkdTU3FIUU92VXFLel9xRGdqNUE2am55TUlKdTBDNWxHNFNiVHlULUJIOHN4NVIzcG9vcmxITEZjV01ocTBveTdTY2loY2ZhdjZIai1ISm5HTDgycE1hYUZMUnpISUdqM3Z5OURWRUV1MmNLVURB?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Macy's Thanksgiving Day Parade kicks off after being postponed due to weather for first time ever CBS News Macy's Thanksgiving Day Parade: What to know about Saturday's celebration ABC7 New York Live updates: Rescheduled Macy’s 100th Thanksgiving Day Parade celebration kicks off in NYC NBC News 'We couldn't give up tha",
+      "keyChanges": [
+        "來源：CBS News（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-7d7003b8b177",
+      "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff - Al Jazeera",
+      "originalTitle": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff - Al Jazeera",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "Al Jazeera",
+      "sourceId": "src-us-google",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=64",
+      "bannerImage": "",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:21Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "國際焦點"
+      ],
+      "aiSummary": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff Al Jazeera MSF ‘outraged’ as two workers killed in Israeli strike on Gaza CNN Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says The New York Times Israeli strike kills 2 Doctors Without Borders guards whom Israel claims ",
+      "keyChanges": [
+        "來源：Al Jazeera（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-271b3807f00d",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "originalTitle": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "category": "財經科技",
+      "riskLevel": "medium",
+      "sourceSector": "community",
+      "countryCode": "US",
+      "countryName": "美國",
+      "region": "北美",
+      "originalLanguage": "EN",
+      "sourceName": "TechCrunch",
+      "sourceId": "src-us-techcrunch",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64",
+      "bannerImage": "https://techcrunch.com/wp-content/uploads/2026/11/david-ha-Sakana-AI-.jpg?resize=1200,1200",
+      "version": "US-FEED",
+      "publishedAt": "2026-11-28T15:16:21Z",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "heatScore": 64,
+      "commentCount": 0,
+      "tags": [
+        "US",
+        "財經科技"
+      ],
+      "aiSummary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "keyChanges": [
+        "來源：TechCrunch（美國）"
+      ],
+      "impactScope": "關注 美國 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": false,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-46025fd3e921",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:17Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611281034.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風明顯偏強，28日上午至29日晚上桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣、連江縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-350072451bb7",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:16Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611282227.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風明顯偏強，28日晚上至29日晚上桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣、連江縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
+    {
+      "id": "cbl-cc273b361681",
+      "title": "強風",
+      "originalTitle": "強風",
+      "category": "國際焦點",
+      "riskLevel": "low",
+      "sourceSector": "official",
+      "countryCode": "TW",
+      "countryName": "台灣",
+      "region": "亞太",
+      "originalLanguage": "ZH",
+      "sourceName": "NCDR 台灣國家災害防救中心示警",
+      "sourceId": "src-tw-ncdr",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=alerts.ncdr.nat.gov.tw&sz=64",
+      "bannerImage": "",
+      "version": "TW-FEED",
+      "publishedAt": "2026-11-28T15:16:16Z",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Weather_warnings_WIND/fifows_strong-wind_202611281626.cap",
+      "heatScore": 48,
+      "commentCount": 0,
+      "tags": [
+        "TW",
+        "國際焦點"
+      ],
+      "aiSummary": "東北風明顯偏強，28日下午至29日晚上桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣(含蘭嶼、綠島)、澎湖縣、連江縣局部地區有平均風6級以上或陣風8級以上發生的機率(黃色燈號)，請注意。",
+      "keyChanges": [
+        "來源：NCDR 台灣國家災害防救中心示警（台灣）"
+      ],
+      "impactScope": "關注 台灣 公開資訊與新聞之團隊。",
+      "migrationSteps": [
+        "前往官方原文查看完整細節。"
+      ],
+      "aiEnriched": true,
+      "diff": null,
+      "comments": []
+    },
     {
       "id": "cbl-ecc09d06ddad",
       "title": "Announcing Rust 1.100.1",
